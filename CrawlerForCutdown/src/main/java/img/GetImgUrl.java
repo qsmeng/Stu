@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.apache.commons.lang3.StringEscapeUtils;
+import org.apache.commons.text.StringEscapeUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
@@ -33,7 +33,7 @@ public class GetImgUrl {
 		// 获取全部图片url
 		String reg = "objURL\":\"(http|https)://.+?\\.(gif|jpeg|png|jpg|bmp)";
 		String docstr = doc.toString();
-		docstr = StringEscapeUtils.unescapeHtml3(docstr);
+		docstr = StringEscapeUtils.unescapeHtml4(docstr);
 		Pattern pattern = Pattern.compile(reg);
 		Matcher m = pattern.matcher(docstr);
 		List<String> list = new LinkedList<String>();
