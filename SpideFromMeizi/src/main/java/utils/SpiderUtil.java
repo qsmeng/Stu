@@ -1,4 +1,4 @@
-package Utils;
+package utils;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -11,12 +11,16 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.net.URLConnection;
 import java.util.ArrayList;
-import java.util.Date;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
+/**
+ * 
+ * @author
+ *
+ */
 public class SpiderUtil {
 	public static String getHtml() throws IOException {
 		HttpURLConnection connection = null;
@@ -27,8 +31,7 @@ public class SpiderUtil {
 		connection.setReadTimeout(8000);
 		InputStream in = connection.getInputStream();
 		/* 下面对获取到的输入流进行读取 */
-		BufferedReader reader = new BufferedReader(new InputStreamReader(in,
-				"UTF-8"));
+		BufferedReader reader = new BufferedReader(new InputStreamReader(in, "UTF-8"));
 		StringBuilder response = new StringBuilder();
 		String line;
 		while ((line = reader.readLine()) != null) {
@@ -39,20 +42,20 @@ public class SpiderUtil {
 	}
 
 	public static void getHtmlByJsoup() throws IOException {
-		int i =1;
+		int i = 1;
 		String url = "http://www.mzitu.com/86712";
-		Document doc = Jsoup.connect(url+"/"+i).get();
+		Document doc = Jsoup.connect(url + "/" + i).get();
 		@SuppressWarnings("unused")
 		Elements imageDiv = doc.getElementsByClass("meta-images");
-	//	System.out.println(doc);
+		// System.out.println(doc);
 		Elements allsrc = doc.getElementsByTag("img");
 		String src = allsrc.attr("src");
-		if(!src.isEmpty()){
+		if (!src.isEmpty()) {
 			i++;
 		}
 	}
-	
-	public static String getSrc(String url) throws IOException{
+
+	public static String getSrc(String url) throws IOException {
 		Document doc = Jsoup.connect(url).get();
 		@SuppressWarnings("unused")
 		Elements imageDiv = doc.getElementsByClass("meta-images");
@@ -61,35 +64,35 @@ public class SpiderUtil {
 		System.out.println(src);
 		return src;
 	}
-	
-	public static void getAllSrc() throws IOException{
+
+	public static void getAllSrc() throws IOException {
 		int i = 1;
 		String url = "http://www.mzitu.com/86712/1";
-		int lastnumber = url.indexOf("m")+16;
+		int lastnumber = url.indexOf("m") + 16;
 		int beginnumber = url.indexOf("h");
 		System.out.println(beginnumber);
 		System.out.println(lastnumber);
-		System.out.println(url.substring(beginnumber, lastnumber)+i);
-		String realurl = url.substring(beginnumber, lastnumber)+i;
-		while(!getSrc(realurl).isEmpty()){
+		System.out.println(url.substring(beginnumber, lastnumber) + i);
+		String realurl = url.substring(beginnumber, lastnumber) + i;
+		while (!getSrc(realurl).isEmpty()) {
 			i++;
 			System.out.println(url);
 			System.out.println(getSrc(url));
 		}
-		
+
 	}
-	
-	public static void saveImage(ArrayList<String> urls) throws Exception{
+
+	public static void saveImage(ArrayList<String> urls) throws Exception {
 		System.out.println("开始下载!");
 		File file = new File("D:\\pic");
-		URLConnection imageconnection = null ;
-		InputStream imageInputStream=null;
-		for(String url:urls){
+		URLConnection imageconnection = null;
+		InputStream imageInputStream = null;
+		for (String url : urls) {
 			URL oneurl = new URL(url);
-			try{
-			imageconnection  = oneurl.openConnection();
-			 imageInputStream = imageconnection.getInputStream();
-			}catch(Exception e){
+			try {
+				imageconnection = oneurl.openConnection();
+				imageInputStream = imageconnection.getInputStream();
+			} catch (Exception e) {
 				System.out.println("下载失败");
 				continue;
 			}
@@ -97,14 +100,14 @@ public class SpiderUtil {
 				file.mkdir();
 			}
 			@SuppressWarnings("resource")
-			OutputStream imageoutputStream = new FileOutputStream(new File("D:\\pic\\"
-					+ new Date().getTime() + ".jpg"));
-			
-		byte[] b = new byte[2048];
-		int len = 0;
-		while ((len = imageInputStream.read(b)) != -1) {
-			imageoutputStream.write(b, 0, len);
-		}
+			OutputStream imageoutputStream = new FileOutputStream(
+					new File("D:\\pic\\" + System.currentTimeMillis() + ".jpg"));
+
+			byte[] b = new byte[2048];
+			int len = 0;
+			while ((len = imageInputStream.read(b)) != -1) {
+				imageoutputStream.write(b, 0, len);
+			}
 		}
 		System.out.println("下载完成");
 	}
