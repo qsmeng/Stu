@@ -1,0 +1,98 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:aop="http://www.springframework.org/schema/aop" 
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+	http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+	http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.0.xsd
+	http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.0.xsd 
+	http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.0.xsd
+	http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-4.0.xsd">
+	
+	
+	<!--1.开启包扫描  -->
+	<context:component-scan base-package="*"/>
+	
+	<!--3.引入外部的配置文件  -->
+	<!--通过标签配置的
+		缺点:只能添加一个或一类配置文件,
+		如果配置文件有多个则不通用
+	  -->	
+	<!-- <context:property-placeholder location="classpath:/properties/jdbc*.properties"/> -->
+	<bean id="propertyPlaceholder" class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+		<property name="locations">
+			<list>
+				<value>classpath:/properties/jdbc.properties</value>
+				<value>classpath:/properties/image.properties</value>
+				<value>classpath:/properties/redis.properties</value>
+			</list>
+		</property>
+	</bean>
+	
+	<!--2.配置数据源  -->
+	<bean id="dataSource" class="com.jolbox.bonecp.BoneCPDataSource" destroy-method="close">
+		<!-- 数据库驱动 -->
+		<property name="driverClass" value="${jdbc.driver}" />
+		<!-- 相应驱动的jdbcUrl -->
+		<property name="jdbcUrl" value="${jdbc.url}" />
+		<!-- 数据库的用户名 -->
+		<property name="username" value="${jdbc.username}" />
+		<!-- 数据库的密码 -->
+		<property name="password" value="${jdbc.password}" />
+		<!-- 检查数据库连接池中空闲连接的间隔时间，单位是分，默认值：240，如果要取消则设置为0 -->
+		<property name="idleConnectionTestPeriod" value="60" />
+		<!-- 连接池中未使用的链接最大存活时间，单位是分，默认值：60，如果要永远存活设置为0 -->
+		<property name="idleMaxAge" value="30" />
+		<!-- 每个分区最大的连接数 -->
+		<property name="maxConnectionsPerPartition" value="150" />
+		<!-- 每个分区最小的连接数 -->
+		<property name="minConnectionsPerPartition" value="5" />
+	</bean>
+	
+	<!--注解的方式  -->
+	<!-- <tx:annotation-driven/> -->
+	
+	<!--声明式的事务处理 
+		1.事务管理器
+		2.配置事务通知 定义事务策略
+		3.配置事务切面
+			3.1编辑切入点表达式
+			3.2形成事务切面
+	 -->
+	<bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+		<property name="dataSource" ref="dataSource"/>
+	</bean>
+	
+	<!--定义事务通知 
+		propagation:事务的传播属性
+		
+		1.REQUIRED  必须添加事务
+		2.SUPPORTS  事务支持 原来有事务则添加事务,
+					                如果之前没有事务则不添加事务	
+		3.NEVER     从不添加事务
+	 -->
+	<tx:advice id="txAdvice" transaction-manager="transactionManager">
+		<tx:attributes>
+			<tx:method name="save*" propagation="REQUIRED"/>
+			<tx:method name="delete*" propagation="REQUIRED"/>
+			<tx:method name="update*" propagation="REQUIRED"/>
+			<tx:method name="find*" propagation="SUPPORTS" read-only="true"/>
+			<tx:method name="*" propagation="SUPPORTS" read-only="true"/>	
+		</tx:attributes>
+	</tx:advice>
+	
+	<!--
+		切入点表示式写法
+		within(类的路径) 按照类型匹配 这种配置格式粒度较粗
+		execution(返回值类型 包名.类名.方法名(参数类型..))
+		说明:匹配的是servic包下的任意类的任意方法的任意参数
+		类型
+	  -->
+	<aop:config>
+		<aop:pointcut expression="execution(* jsoup.service..*.*(..))" id="pc"/>
+		<aop:advisor advice-ref="txAdvice" pointcut-ref="pc"/>
+	</aop:config>
+
+</beans>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	
+	<!--例子1:
+		数据库字段: user_id
+		实体对象中的属性 userId
+		
+		resultType=User
+		resultMap 解决字段和属性名称不一致的问题
+		2.可以实现关联映射
+		
+		mapUnderscoreToCamelCase 自动的驼峰映射规则
+		可以自动的将 user_id中的值映射到userId满足驼峰
+		映射的规则
+		
+		
+		例子2:
+		Mybatis中的缓存 2级
+		一级缓存sqlSession级别:由同一个sqlSession中的数据
+		可以实现数据共享.
+		一级缓存默认是开启的.
+		
+		二级缓存:sqlSessionFactory级别
+				表示:由一个sqlSessionFactory所生产的全部的
+				sqlSession都可以实现数据共享
+		二级缓存默认是关闭的
+		总结:实际开发中几乎不用二级缓存,因为效率太低
+		后期学习:redis
+	  -->
+	<settings>
+		<!-- 开启驼峰自动映射 -->
+		<setting name="mapUnderscoreToCamelCase" value="true" />
+		<!-- 二级缓存的总开关，被redis替代 -->
+		<setting name="cacheEnabled" value="false" />
+	</settings>
+	
+	
+	<!-- 
+	配置文件的顺序
+	Content Model : (properties?, settings?, typeAliases?, typeHandlers?, objectFactory?, 
+ objectWrapperFactory?, reflectorFactory?, plugins?, environments?, databaseIdProvider?, 
+ mappers?) 
+ 	-->
+	<plugins>
+		<!-- 分页插件：com.github.pagehelper为PageHelper类所在包名 -->
+		<!-- <plugin interceptor="com.github.pagehelper.PageHelper">
+			方言
+			<property name="dialect" value="mysql" />
+			该参数默认为false
+			设置为true时，使用RowBounds分页会进行count查询，查询数据总条数
+			<property name="rowBoundsWithCount" value="true" />
+		</plugin> -->
+		
+		<!-- 通用Mapper插件 -->
+		<plugin interceptor="com.github.abel533.mapperhelper.MapperInterceptor">
+			<!--主键自增回写方法,默认值MYSQL,详细说明请看文档 -->
+			<property name="IDENTITY" value="MYSQL" />
+			<!--通用Mapper接口该接口是扩展方法 -->
+			<property name="mappers" value="common.mapper.SysMapper" />
+		</plugin>
+	</plugins>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</configuration>

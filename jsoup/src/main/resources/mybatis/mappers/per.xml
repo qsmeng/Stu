@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  <!--
+  	namespace:主要作用
+  		1.是映射文件的唯一的标识
+  		2.根据接口的路径匹配映射文件
+  	映射文件的作用:
+  		编辑sql语句
+    -->
+<mapper namespace="*">
+	
+	
+</mapper>
