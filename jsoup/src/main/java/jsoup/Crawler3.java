@@ -1,4 +1,4 @@
-package url;
+package jsoup;
 
 import java.io.IOException;
 import java.sql.Connection;
@@ -17,9 +17,12 @@ import org.jsoup.select.Elements;
 
 import utils.JdbcPoll;
 
+/**
+ * 
+ * @author qsmeng
+ *
+ */
 public class Crawler3 {
-	// 1,私有化构造函数，
-	// 防止外界直接new 对象
 	private Crawler3() {
 	}
 
@@ -35,7 +38,11 @@ public class Crawler3 {
 		System.out.println(result);
 	}
 
-	// 通过url获取完整的网页
+	/**
+	 * 通过url获取完整的网页
+	 * 
+	 * @return 爬取url成功
+	 */
 	public static String crawlerUrl() {
 		// word是要搜索的关键字，pn是显示的页码，rn是一页显示多少个数据
 		String url = "http://image.baidu.com/search/avatarjson?tn=resultjsonavatarnew&ie=utf-8&word=" + keyword
@@ -47,9 +54,10 @@ public class Crawler3 {
 		System.out.println(url);
 		try {
 			// Jsoup 获取整个页面
-			doc = Jsoup.connect(url).data("query", "Java")// 请求参数
-					.userAgent("Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)")// 设置urer-agent get();
-					.timeout(timeOut).get();
+			doc = Jsoup.connect(url).data("query", "Java")
+					// 设置请求参数
+					.userAgent("Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)").timeout(timeOut)
+					.get();
 		} catch (IOException e) {
 			result = "爬取url失败";
 			// e.printStackTrace();
@@ -67,15 +75,15 @@ public class Crawler3 {
 		String docstr = doc.toString();
 		System.out.println(docstr);
 		// 字符串解析
-		docstr = StringEscapeUtils.unescapeHtml3(docstr);
+		docstr = StringEscapeUtils.unescapeHtml4(docstr);
 		// 正则匹配获取想要的数据
 		Pattern pattern = Pattern.compile(reg);
 		Matcher m = pattern.matcher(docstr);
-	    while (m.find()) {
-	    // 截取 objURL":"9个字符余下部分才是所需 http://.+?\\.(gif|jpeg|png|jpg|bmp)
-	    String imageURL = m.group().substring(9);
-	       System.out.println(imageURL);
-	      }
+		while (m.find()) {
+			// 截取 objURL":"9个字符余下部分才是所需 http://.+?\\.(gif|jpeg|png|jpg|bmp)
+			String imageurl = m.group().substring(9);
+			System.out.println(imageurl);
+		}
 		// 保存了记录的插入顺序，在用Iterator遍历LinkedHashMap时，先得到的记录肯定是先插入的.在遍历的时候会比HashMap慢。key和value均允许为空，非同步的。
 		Map<String, String> map = new LinkedHashMap<String, String>();
 		map.put("url", url);
@@ -99,8 +107,9 @@ public class Crawler3 {
 		}
 		result = "爬取url成功";
 		result = saveUrl(map);
-		if (result == "保存url爬取结果成功")
+		if ( "保存url爬取结果成功".equals(result)) {
 			result = "爬取url并入库成功";
+		}
 		return result;
 	}
 
@@ -157,8 +166,9 @@ public class Crawler3 {
 						pstmt.setString(1, urlid);
 						pstmt.setString(2, map.get("url"));
 						rows = pstmt.executeUpdate();
-						if (rows > 0)
+						if (rows > 0) {
 							System.out.println("存入imgpd");
+						}
 					}
 				}
 			}

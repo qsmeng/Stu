@@ -1,4 +1,4 @@
-package url;
+package jsoup;
 
 import java.io.IOException;
 import java.util.LinkedHashMap;
