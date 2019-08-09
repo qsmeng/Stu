@@ -7,7 +7,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import com.mysql.cj.jdbc.Driver;
 
@@ -105,7 +105,7 @@ public class JDBCTest {
 		}
 	}
 
-	//@Test // 单元测试
+	// @Test // 单元测试
 	public void jDBCPool2() {
 		Connection conn = null;
 		int rs;
@@ -115,7 +115,7 @@ public class JDBCTest {
 			conn = JdbcPoll.getConn();
 			String sql = "INSERT INTO url (url,imgurl,imged,linkurl,linked,imgorlink) VALUES ( ? ,'imgurl',0,'linkurl',0,0)";
 			pstmt = (PreparedStatement) conn.prepareStatement(sql);
-			//pstmt.setString(1, "url");
+			// pstmt.setString(1, "url");
 			System.out.println(pstmt);
 			rs = pstmt.executeUpdate();
 			System.out.println(rs);
@@ -130,7 +130,7 @@ public class JDBCTest {
 		}
 	}
 
-	//@Test
+	// @Test
 	public void name() {
 		System.out.println("/CrawlerForCutdown/src/test/java/test/JDBC.java");
 	}
