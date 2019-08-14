@@ -21,8 +21,7 @@ public class UrlFecter {
         //首先对网页进行链接请求，拿到网页源码
         for(int i = 0; i < list.size(); i++) {
             String html = HttpUrl.request(list.get(i));
-
-            out.println(i);
+            //out.println(i);
             //对网页源码进行解析，拿到当前页面的所有图片的链接
             imageUrl = getImageUrl(html, imageUrl);
         }
@@ -34,11 +33,9 @@ public class UrlFecter {
     public static List<String> getImageUrl(String html, List<String> imageUrl) {
         Document document = Jsoup.parse(html);
         String json = null;
-
         //首先得到图片源链接所在的json字符串，使用正则表达式
         Pattern pattern = Pattern.compile("flip.setData\\('imgData'.*\\);");
         Matcher matcher = pattern.matcher(document.toString());
-    
         //将得到的东西转换为正确的Json格式
         while (matcher.find()) {
             json = matcher.group().toString();

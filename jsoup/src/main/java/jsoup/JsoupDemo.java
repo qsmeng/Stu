@@ -57,7 +57,7 @@ public class JsoupDemo {
 				file.mkdirs(); // 如果文件不存在则创建文件夹
 			}
 			fileName = fileName + ".html";
-			filePath = "G:/html/" + fileName;
+			filePath = "G:/Spider/JsoupDemo/html/" + fileName;
 			@SuppressWarnings("resource")
 			OutputStream outputStream = new FileOutputStream(new File(filePath));
 			outputStream.write(body);
@@ -78,12 +78,12 @@ public class JsoupDemo {
 		try {
 			Response response = Jsoup.connect(imageUrl).ignoreContentType(true).execute();
 			byte[] bytes = response.bodyAsBytes();
-			File file = new File("G:/image");
+			File file = new File("G:/Spider/JsoupDemo/img");
 			if (!file.exists()) {
 				file.mkdirs(); // 如果文件不存在则创建文件夹
 			}
 			String fileName = imageUrl.substring(imageUrl.lastIndexOf("/") + 1);
-			filePath = "G:/image/" + fileName;
+			filePath = "G:/Spider/JsoupDemo/img/" + fileName;
 			// 关于流的说明 现在学习的都是BIO 问题:会出现阻塞 改进 非阻塞IO NIO
 			OutputStream outputStream = new FileOutputStream(new File(filePath));
 			outputStream.write(bytes);

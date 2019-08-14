@@ -1,41 +1,36 @@
 package httpbrowser;
 
-import htmlparse.UrlFecter;
-
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
+
+import htmlparse.UrlFecter;
 
 /**
- * Created by hg_yi on 17-5-16.
- * 本类主要构建要爬取的Url
+ * Created by hg_yi on 17-5-16. 本类主要构建要爬取的Url
  */
 
 public class CreateUrl {
-    //首先构建需要抓取的10页百度图片页面
-    public static List<String> CreateMainUrl() {
-        Scanner scanner = new Scanner(System.in);
-        String urlMain = scanner.nextLine();
-        String urlTemp = urlMain;
-        List<String> list = new ArrayList<>();
+	// 首先构建需要抓取的10页百度图片页面
+	public static List<String> CreateMainUrl(String wd,int page) {
+		String urlMain = "image.baidu.com/search/flip?tn=baiduimage&ie=utf-8&word=" + wd;
+		String urlTemp = urlMain;
+		List<String> list = new ArrayList<>();
 
-        //构建需要爬取的10页Url
-        for(int i= 0; i < 10; i++)
-        {
-            urlMain = "http://" + urlMain + "pn=" + i*60;
-            list.add(urlMain);
-            urlMain = urlTemp;
-        }
+		// 构建需要爬取的10页Url
+		for (int i = 0; i < page; i++) {
+			urlMain = "http://" + urlMain + "&pn=" + i * 60;
+			list.add(urlMain);
+			urlMain = urlTemp;
+		}
+		return list;
+	}
 
-        return list;
-    }
+	// 创建每个要爬取图片的Url
+	public static List<String> CreateImageUrl(List<String> list) {
+		List<String> imagelist = new ArrayList<>();
 
-    //创建每个要爬取图片的Url
-    public static List<String> CreateImageUrl(List<String> list) {
-        List<String> imagelist = new ArrayList<>();
+		imagelist = UrlFecter.urlParse(imagelist, list);
 
-        imagelist = UrlFecter.urlParse(imagelist, list);
-
-        return imagelist;
-    }
+		return imagelist;
+	}
 }
