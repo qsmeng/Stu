@@ -65,8 +65,7 @@ public class SearchAlbum {
 		if (url == null || param == null) {
 			return null;
 		}
-
-		System.out.println("开始抓取网页:" + url + param);
+		// System.out.println("开始抓取网页:" + url + param);
 		Document document = null;
 		try {
 			/*
@@ -206,16 +205,16 @@ public class SearchAlbum {
 			int end = element.toString().indexOf("\" class");
 			String user = element.toString().substring(start + "title=\"".length(), end);
 			String intro = "";
+			String totalPlayCount = playNumElements.get(i).text().trim();
 			try {
 				intro = albumIntroElements.get(i).text().trim();
 			} catch (Exception e) {
-				continue;
+				//continue;
+			} finally {
+				i++;
+				Album album = new Album(title, user, intro, totalPlayCount, href);
+				专辑.add(album);
 			}
-
-			String totalPlayCount = playNumElements.get(i).text().trim();
-			Album album = new Album(title, user, intro, totalPlayCount, href);
-			专辑.add(album);
-			i++;
 		}
 	}
 
@@ -261,10 +260,10 @@ public class SearchAlbum {
 				// 定位主要内容
 				ele = ele.getElementsByAttributeValueMatching("class", Pattern.compile("main-content _22L")).first();
 				// 网页数据分析
-				int size=searchAlbum.getHref(ele);
-				++当前页数;
-				//播报爬取进度
+				int size = searchAlbum.getHref(ele);
+				// 播报爬取进度
 				page(ele, size);
+				++当前页数;
 			}
 			long endTime = System.currentTimeMillis();
 			float spendTime = (endTime - startTime) / 1000F;
