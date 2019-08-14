@@ -1,4 +1,4 @@
-package jsoup;
+package OKHttp;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -16,12 +16,12 @@ import org.jsoup.select.Elements;
 public class Spider {
 
 	// 百度图片搜索
-	public static String path = "https://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=result&fr=&sf=1&fmq=1559831365792_R&pv=&ic=&nc=1&z=&hd=&latest=&copyright=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&sid=&word=%E4%B8%9D%E8%A2%9C%E6%8E%A7&f=3&oq=siwa&rsp=0"; 
-	public static int num = -1, sum = 0;
+	public static String path = "https://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=result&fr=&sf=1&fmq=1559831365792_R&pv=&ic=&nc=1&z=&hd=&latest=&copyright=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&sid=&word=%E4%B8%9D%E8%A2%9C%E6%8E%A7&f=3&oq=siwa&rsp=0";
+	public static int num = -1,sum = 0;
 	/**
 	 * 定义四个文件类（链接存储，图片储存，文件存储，错误链接存储）
 	 */
-	public static File aLinkFile, imgLinkFile, docLinkFile, errorLinkFile;
+	public static File aLinkFile,imgLinkFile,docLinkFile,errorLinkFile;
 
 	/**
 	 * 
@@ -30,7 +30,7 @@ public class Spider {
 	public static void getAllLinks(String path) {
 		Document doc = null;
 		try {
-			doc = Jsoup.parse(HttpUtil.get(path));
+			doc = Jsoup.parse(OKHttpUtil.get(path));
 		} catch (Exception e) {
 			// 接收到错误链接（404页面）
 			writeTxtFile(errorLinkFile, path + "\r\n"); // 写入错误链接收集文件

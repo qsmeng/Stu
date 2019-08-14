@@ -1,4 +1,4 @@
-package jsoup;
+package OKHttp;
 
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
@@ -12,7 +12,7 @@ import okhttp3.Response;
  * Created by XieTiansheng on 2018/3/7.
  */
 
-public class HttpUtil {
+public class OKHttpUtil {
     private static OkHttpClient okHttpClient;
     @SuppressWarnings("unused")
 	private static int num = 0;

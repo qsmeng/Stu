@@ -1,4 +1,4 @@
-package jsoup;
+package baidu;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;

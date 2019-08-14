@@ -4,16 +4,41 @@ package album;
  * 专辑
  */
 public class Album {
+	/**
+	 * 专辑名
+	 */
 	private String title;
-	private String anchorman;
-	private String info;
+	/**
+	 * 专辑所属账号
+	 */
+	private String user;
+	/**
+	 * 介绍
+	 */
+	private String intro;
+	/**
+	 * 专辑播放量
+	 */
 	private String totalPlayCount;
+	/**
+	 * 专辑地址
+	 */
+	private String href;
 
-	Album(String title, String anchorman, String info, String totalPlayCount) {
+	public String getHref() {
+		return href;
+	}
+
+	public void setHref(String href) {
+		this.href = href;
+	}
+
+	Album(String title, String anchorman, String info, String totalPlayCount, String href) {
 		this.title = title;
-		this.anchorman = anchorman;
-		this.info = info;
+		this.user = anchorman;
+		this.intro = info;
 		this.totalPlayCount = totalPlayCount;
+		this.href = href;
 	}
 
 	public String getTitle() {
@@ -25,19 +50,19 @@ public class Album {
 	}
 
 	public String getAnchorman() {
-		return anchorman;
+		return user;
 	}
 
 	public void setAnchorman(String anchorman) {
-		this.anchorman = anchorman;
+		this.user = anchorman;
 	}
 
 	public String getInfo() {
-		return info;
+		return intro;
 	}
 
 	public void setInfo(String info) {
-		this.info = info;
+		this.intro = info;
 	}
 
 	public String getTotalPlayCount() {
@@ -50,7 +75,8 @@ public class Album {
 
 	@Override
 	public String toString() {
-		return "{\"title\":\"" + title + "\", \"anchorman\":\"" + anchorman + "\",\"info\":\"" + info
-				+ "\", \"totalPlayCount\":\"" + totalPlayCount + "\"}";
+		return "Album [title=" + title + ", user=" + user + ", intro=" + intro + ", totalPlayCount=" + totalPlayCount
+				+ ", href=" + href + "]";
 	}
+
 }

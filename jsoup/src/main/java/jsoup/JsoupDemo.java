@@ -13,8 +13,10 @@ import java.util.Map;
 
 /**
  * 通过Jsoup的connect方法获取Connection对象
- * 再用Connection对象的execute方法获取Connection.Response对象 
+ * 再用Connection对象的execute方法获取Connection.Response对象
  * 使用Response对象，即可获取html原始文本内容
+ * cookies的使用
+ * 返回图片真实地址
  */
 public class JsoupDemo {
 
@@ -28,30 +30,35 @@ public class JsoupDemo {
 
 	public static void main(String[] args) {
 		try {
-			Connection.Response response = Jsoup.connect(WEBURL)
-					.timeout(60000)
-					.method(Connection.Method.GET)
-					.maxBodySize(0)
-					.followRedirects(false).execute();
+			Connection.Response response = Jsoup.connect(WEBURL).timeout(60000).method(Connection.Method.GET)
+					.maxBodySize(0).followRedirects(false).execute();
 			byte[] body = response.bodyAsBytes(); // 获取html原始文本内容
-			System.out.println(new String(response.bodyAsBytes()));
-			String fileName =WEBURL.substring(WEBURL.lastIndexOf("/") + 1);
-			String filePath=save(body,fileName);
+			// System.out.println(new String(response.bodyAsBytes()));
+			String fileName = WEBURL.substring(WEBURL.lastIndexOf("/") + 1);
+			String filePath = save(body, fileName);
 			System.out.println(filePath);
 		} catch (Exception ex) {
 			ex.printStackTrace();
 		}
 	}
-	@SuppressWarnings("resource")
-	public static String save(byte[] body,String fileName) {
+
+	/**
+	 * 直接保存为文件
+	 * 
+	 * @param body
+	 * @param fileName
+	 * @return
+	 */
+	public static String save(byte[] body, String fileName) {
 		String filePath = null;
 		try {
 			File file = new File("G:/html");
 			if (!file.exists()) {
 				file.mkdirs(); // 如果文件不存在则创建文件夹
 			}
-			fileName =fileName+".html";
+			fileName = fileName + ".html";
 			filePath = "G:/html/" + fileName;
+			@SuppressWarnings("resource")
 			OutputStream outputStream = new FileOutputStream(new File(filePath));
 			outputStream.write(body);
 		} catch (IOException e) {
@@ -59,7 +66,13 @@ public class JsoupDemo {
 		}
 		return filePath;
 	}
-	// 下载图片 之后返回图片的路径
+
+	/**
+	 * 下载图片 之后返回图片的路径
+	 * 
+	 * @param imageUrl
+	 * @return
+	 */
 	public String findImage(String imageUrl) {
 		String filePath = null;
 		try {
