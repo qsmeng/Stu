@@ -7,19 +7,22 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.net.HttpURLConnection;
 import java.net.URL;
-import java.net.URLConnection;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 
 /**
- * Created by hg_yi on 17-5-16.
+ * 
+ * @author Administrator
+ *
  */
 public class ImageFile implements Runnable {
 	InputStream inputStream = null;
 	FileOutputStream outputStream = null;
 	static String dir = null;
-	int begin = 0,last = 0;
+	int begin = 0, last = 0;
 	List<String> imageUrls = new ArrayList<>();
 
 	// 设置线程需要的参数
@@ -31,7 +34,7 @@ public class ImageFile implements Runnable {
 
 	// 创建文件夹
 	public static void createDir(String wd) {
-		dir = "G:/Spider/major/" + wd;
+		dir = "G:/Spider/major/" + wd + "/";
 		File file = new File(dir);
 		if (file.exists()) {
 			out.println("dir is exists");
@@ -43,42 +46,44 @@ public class ImageFile implements Runnable {
 	@Override
 	public void run() {
 		for (int i = begin; i < last; i++) {
-			out.println(imageUrls.get(i));
+			String url = imageUrls.get(i);
+			File file = null;
+			FileOutputStream fos = null;
+			HttpURLConnection httpCon = null;
+			InputStream in = null;
+			byte[] size = new byte[1024];
+			int num = 0;
 			try {
-				URL url = new URL(imageUrls.get(i));
-				URLConnection conn = url.openConnection();
-				conn.setConnectTimeout(1000);
-				conn.setReadTimeout(5000);
-				conn.connect();
-				inputStream = conn.getInputStream();
-			} catch (Exception e) {
-				continue;
-			}
-			out.println("success!!!!!!!!!!!!!!!!!!!!!!!!!!");
-			// 创建文件，以url名为文件名
-			String filename = dir + '/' + imageUrls.get(i).substring(imageUrls.get(i).lastIndexOf('/') + 1);
-			File file1 = new File(filename);
-			try {
-				if (!file1.exists()) {
-					file1.createNewFile();
-					outputStream = new FileOutputStream(new File(filename));
-					byte[] buf = new byte[102400];
-					int length = 0;
-					while ((length = inputStream.read(buf, 0, buf.length)) != -1) {
-						outputStream.write(buf, 0, length);
+				String urlName = url.substring(url.lastIndexOf("/") + 1);
+				urlName=urlName+(new Random(Integer.MAX_VALUE))+".jpg";
+				file = new File(dir + urlName);
+				fos = new FileOutputStream(file);
+				if (url.startsWith("http")) {
+					httpCon = (HttpURLConnection) new URL(url).openConnection();
+					httpCon.setConnectTimeout(1000);
+					httpCon.setReadTimeout(3000);
+					in = httpCon.getInputStream();
+					while ((num = in.read(size)) != -1) {
+						for (int j = 0; j < num; j++) {
+							fos.write(size[j]);
+						}
 					}
 				}
-			} catch (FileNotFoundException e) {
-				continue;
-			} catch (IOException e) {
-				continue;
-			}
-
-			try {
-				inputStream.close();
-				outputStream.close();
-			} catch (IOException e) {
+			} catch (FileNotFoundException notFoundE) {
+				System.out.println("找不到该网络图片....");
+			} catch (NullPointerException nullPointerE) {
+				System.out.println("找不到该网络图片....");
+			} catch (IOException ioE) {
+				System.out.println("产生IO异常.....");
+			} catch (Exception e) {
 				e.printStackTrace();
+			} finally {
+				try {
+					if (fos != null)
+						fos.close();
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
 			}
 		}
 	}
