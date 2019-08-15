@@ -1,4 +1,4 @@
-package ftpspider;
+package spider;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -12,6 +12,8 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+
+import ftpspider.HttpUtil;
 
 public class Spider {
 
