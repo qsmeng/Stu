@@ -7,6 +7,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.UnsupportedEncodingException;
 import java.util.concurrent.TimeUnit;
 
 import org.jsoup.Jsoup;
@@ -71,7 +72,16 @@ public class Spider3 {
 					// 判断该a标签的内容是文件还是子链接
 					if (href.contains(".")) {
 						// 写入文件中，文件名+文件链接
-						writeTxtFile(docLinkFile, element.text() + "\r\n\t" + fullurl + "\r\n");
+						String filename = element.text();
+						if (java.nio.charset.Charset.forName("GBK").newEncoder().canEncode(filename)) {
+							try {
+								System.out.println(new String(filename.getBytes("ISO-8859-1"), "UTF-8"));
+								writeTxtFile(docLinkFile, filename + "\r\n\t" + fullurl + "\r\n");
+							} catch (UnsupportedEncodingException e) {
+							}
+						} else {
+							writeTxtFile(docLinkFile, element.text() + "\r\n\t" + fullurl + "\r\n");
+						}
 					} else {
 						// 将链接写入文件
 						writeTxtFile(aLinkFile, fullurl + "\r\n");
@@ -105,7 +115,7 @@ public class Spider3 {
 	public static String getOkHttpClient(String path) {
 		// 创建连接客户端
 		Request request = new Request.Builder().url(path).header("Authorization", "Basic dGFyZW5hY29kZTpjb2RlXzIwMTk=")
-				.header("charset", "utf-8")
+				.header("charset", "GBK")
 				.header("User-Agent",
 						"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36")
 				.build();

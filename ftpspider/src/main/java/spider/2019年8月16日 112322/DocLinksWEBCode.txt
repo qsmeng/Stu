@@ -1,0 +1,3631 @@
+day06am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/day06am.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/questions.docx
+WEB_闈㈣瘯棰榑绗簩闃舵.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/WEB_%e9%9d%a2%e8%af%95%e9%a2%98_%e7%ac%ac%e4%ba%8c%e9%98%b6%e6%ae%b5.docx
+web1905绗竴闃舵鏈堣��-閫昏緫棰�.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/web1905%e7%ac%ac%e4%b8%80%e9%98%b6%e6%ae%b5%e6%9c%88%e8%80%83-%e9%80%bb%e8%be%91%e9%a2%98.docx
+鍙ｈ厰缃戠珯psd鍥�.rar
+	http://code.tarena.com.cn/WEBCode/wfd1905/%e5%8f%a3%e8%85%94%e7%bd%91%e7%ab%99psd%e5%9b%be.rar
+WebServer.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/1-server/WebServer.zip
+BOM.mmap
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/BOM.mmap
+DOM.mmap
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/DOM.mmap
+day01.rar
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day01.rar
+day02.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day02.zip
+day03.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day03.zip
+day04.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day04.zip
+day05.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day05.zip
+1_node express.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/11-PROJECT/1_node%20express.wmv
+2_node_route_index.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/11-PROJECT/2_node_route_index.wmv
+3_ajax.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/11-PROJECT/3_ajax.wmv
+4_html.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/11-PROJECT/4_html.wmv
+servers.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/11-PROJECT/servers.wmv
+xz day01 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/11-PROJECT/xz%20day01%20pm.zip
+xz.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/11-PROJECT/xz.zip
+JQuery.mmap
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/JQuery.mmap
+day01.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day01.zip
+day02.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day02.zip
+day03.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day03.zip
+jQuery1.11.3_20150618.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/jQuery1.11.3_20150618.zip
+public.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/public.zip
+xz.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/xz.zip
+day01.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day01.zip
+vue.js.xmind
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/vue.js.xmind
+public vue details.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/15-PROJECT/public%20vue%20details.zip
+xz_vue_template.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/15-PROJECT/xz_vue_template.zip
+HTML5 .zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/HTML5%20.zip
+Vue UI缁勪欢搴�.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/Vue%20UI%e7%bb%84%e4%bb%b6%e5%ba%93.zip
+01_mymovie.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/01_mymovie.jpg
+02_index.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/02_index.zip
+03_index.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/03_index.zip
+all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/all.zip
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/day01pm.zip
+index.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/index.zip
+ngrok.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/ngrok.zip
+node_modules.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/node_modules.zip
+template.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/template.zip
+weixin_dy.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/weixin_dy.zip
+myrnapp01.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/myrnapp01.zip
+python-3.7.4-amd64.exe
+	http://code.tarena.com.cn/WEBCode/wfd1903/22-PYTHON/python-3.7.4-amd64.exe
+JavaScript.mmap
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/JavaScript.mmap
+number.mov
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/number.mov
+p.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/p.wmv
+4.25鎬荤洃鍜ㄨ鏃�.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/99-%e6%80%bb%e7%9b%91%e5%92%a8%e8%af%a2/4.25%e6%80%bb%e7%9b%91%e5%92%a8%e8%af%a2%e6%97%a5.zip
+4.3鎬荤洃鍜ㄨ鏃�.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/99-%e6%80%bb%e7%9b%91%e5%92%a8%e8%af%a2/4.3%e6%80%bb%e7%9b%91%e5%92%a8%e8%af%a2%e6%97%a5.zip
+5.23鎬荤洃鍜ㄨ鏃�.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/99-%e6%80%bb%e7%9b%91%e5%92%a8%e8%af%a2/5.23%e6%80%bb%e7%9b%91%e5%92%a8%e8%af%a2%e6%97%a5.zip
+Webpack & ES Module 鏇存柊鐗�.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/99-%e6%80%bb%e7%9b%91%e5%92%a8%e8%af%a2/Webpack%20%26%20ES%20Module%20%e6%9b%b4%e6%96%b0%e7%89%88.zip
+Webpack & ES Module.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/99-%e6%80%bb%e7%9b%91%e5%92%a8%e8%af%a2/Webpack%20%26%20ES%20Module.zip
+DOM_jQuery.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/dong_ge_bs_tigu/DOM_jQuery.zip
+HTML_CSS.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/dong_ge_bs_tigu/HTML_CSS.zip
+JavaScript.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/dong_ge_bs_tigu/JavaScript.zip
+React.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/dong_ge_bs_tigu/React.zip
+bs.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/dong_ge_bs_tigu/bs.zip
+html_css_es5_es6.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/dong_ge_bs_tigu/html_css_es5_es6.zip
+miniprogram.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/dong_ge_bs_tigu/miniprogram.zip
+network.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/dong_ge_bs_tigu/network.zip
+vue_webpack.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/dong_ge_bs_tigu/vue_webpack.zip
+鍓嶇闈㈣瘯棰�-灏忕▼搴�.html.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/dong_ge_bs_tigu/%e5%89%8d%e7%ab%af%e9%9d%a2%e8%af%95%e9%a2%98-%e5%b0%8f%e7%a8%8b%e5%ba%8f.html.zip
+鍓嶇闈㈣瘯棰�-缁煎悎.md.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/dong_ge_bs_tigu/%e5%89%8d%e7%ab%af%e9%9d%a2%e8%af%95%e9%a2%98-%e7%bb%bc%e5%90%88.md.zip
+web1903绗竴闃舵鏈堣�冭В鏋�.docx
+	http://code.tarena.com.cn/WEBCode/wfd1903/%e6%9c%88%e8%80%83%e9%a2%98/web1903%e7%ac%ac%e4%b8%80%e9%98%b6%e6%ae%b5%e6%9c%88%e8%80%83%e8%a7%a3%e6%9e%90.docx
+web1903绗竴闃舵鏈堣�冭В鏋�.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/%e6%9c%88%e8%80%83%e9%a2%98/web1903%e7%ac%ac%e4%b8%80%e9%98%b6%e6%ae%b5%e6%9c%88%e8%80%83%e8%a7%a3%e6%9e%90.zip
+瑙嗛.rar
+	http://code.tarena.com.cn/WEBCode/wfd1903/%e9%a1%b9%e7%9b%ae%e5%a4%a7%e8%b5%9b%e8%a7%86%e9%a2%91/%e8%a7%86%e9%a2%91.rar
+Webpack & ES Module for 1904.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/99_%e6%80%bb%e7%9b%91%e5%92%a8%e8%af%a2%e6%97%a5/Webpack%20%26%20ES%20Module%20for%201904.zip
+BOM.mmap
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/BOM.mmap
+DOM.mmap
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/DOM.mmap
+day01.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day01.zip
+day02.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day02.zip
+day03.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day03.zip
+day04.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day04.zip
+day05.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05.zip
+Git鍜屼簯鏈嶅姟鍣�.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/GIT/Git%e5%92%8c%e4%ba%91%e6%9c%8d%e5%8a%a1%e5%99%a8.docx
+git鍜屾湇鍔″櫒.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/GIT/git%e5%92%8c%e6%9c%8d%e5%8a%a1%e5%99%a8.zip
+寮瑰箷浠诲姟.mmap
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/%e5%bc%b9%e5%b9%95%e4%bb%bb%e5%8a%a1.mmap
+JQuery.mmap
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/JQuery.mmap
+day01.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day01.zip
+day02.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day02.zip
+day03.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day03.zip
+jQuery1.11.3_20150618.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/jQuery1.11.3_20150618.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/questions.docx
+JavaScript.mmap
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/JavaScript.mmap
+prototype  chain - others.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/prototype%20%20chain%20-%20others.png
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/questions.docx
+1_鎵撳紑椤圭洰鐨勬楠�.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/PROJECT/1_%e6%89%93%e5%bc%80%e9%a1%b9%e7%9b%ae%e7%9a%84%e6%ad%a5%e9%aa%a4.png
+2_棣栭〉鍟嗗搧鍔犺浇姝ラ.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/PROJECT/2_%e9%a6%96%e9%a1%b5%e5%95%86%e5%93%81%e5%8a%a0%e8%bd%bd%e6%ad%a5%e9%aa%a4.png
+img.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/PROJECT/img.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/PROJECT/questions.docx
+xz.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/PROJECT/xz.zip
+day01.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01.zip
+vue.js.xmind
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/vue.js.xmind
+1904鐝涓�闃舵鏈堣�冭В鏋�.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/%e9%98%b6%e6%ae%b5%e8%ae%b2%e8%a7%a3/1904%e7%8f%ad%e7%ac%ac%e4%b8%80%e9%98%b6%e6%ae%b5%e6%9c%88%e8%80%83%e8%a7%a3%e6%9e%90.docx
+WEB_闈㈣瘯棰榑绗竴闃舵.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/%e9%98%b6%e6%ae%b5%e8%ae%b2%e8%a7%a3/WEB_%e9%9d%a2%e8%af%95%e9%a2%98_%e7%ac%ac%e4%b8%80%e9%98%b6%e6%ae%b5.docx
+WEB_闈㈣瘯棰榑绗簩闃舵_1904.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/%e9%98%b6%e6%ae%b5%e8%ae%b2%e8%a7%a3/WEB_%e9%9d%a2%e8%af%95%e9%a2%98_%e7%ac%ac%e4%ba%8c%e9%98%b6%e6%ae%b5_1904.docx
+BOM.mmap
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/BOM.mmap
+DOM.mmap
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/DOM.mmap
+day01.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day01.zip
+day02.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day02.zip
+day03.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day03.zip
+day04.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04.zip
+LWH_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/GIT/LWH_all.zip
+LWH_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/GIT/LWH_am.zip
+web绗簩闃舵缁冧範鏁堟灉鍥剧ず.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/HTML/web%e7%ac%ac%e4%ba%8c%e9%98%b6%e6%ae%b5%e7%bb%83%e4%b9%a0%e6%95%88%e6%9e%9c%e5%9b%be%e7%a4%ba.zip
+6_promise-pic.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/6_promise-pic.png
+JavaScript.mmap
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/JavaScript.mmap
+ajax.js
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/ajax.js
+function_ajax.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/function_ajax.wmv
+LWH.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/ZJZX/LWH.zip
+web绗簩闃舵缁冧範鏁堟灉鍥剧ず.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/day01/web%e7%ac%ac%e4%ba%8c%e9%98%b6%e6%ae%b5%e7%bb%83%e4%b9%a0%e6%95%88%e6%9e%9c%e5%9b%be%e7%a4%ba.zip
+JQuery.mmap
+	http://code.tarena.com.cn/WEBCode/wfd1905/jQuery/JQuery.mmap
+day01.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/jQuery/day01.zip
+day02.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/jQuery/day02.zip
+day03.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/jQuery/day03.zip
+jQuery1.11.3_20150618.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/jQuery/jQuery1.11.3_20150618.zip
+web绗簩闃舵缁冧範鏁堟灉鍥剧ず.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/05_html/web%e7%ac%ac%e4%ba%8c%e9%98%b6%e6%ae%b5%e7%bb%83%e4%b9%a0%e6%95%88%e6%9e%9c%e5%9b%be%e7%a4%ba.zip
+绗竴闃舵闈㈣瘯棰�2019.8.9.txt
+	http://code.tarena.com.cn/WEBCode/wfd1906/99_%e6%9c%88%e8%80%83%e9%a2%98%e8%ae%b2%e8%a7%a3/%e7%ac%ac%e4%b8%80%e9%98%b6%e6%ae%b5%e9%9d%a2%e8%af%95%e9%a2%982019.8.9.txt
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/1-server/DAY01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/1-server/DAY01/day01pm.zip
+1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/carousel/1.wmv
+2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/carousel/2.wmv
+3.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/carousel/3.wmv
+4.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/carousel/4.wmv
+5.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/carousel/5.wmv
+6.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/carousel/6.wmv
+7.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/carousel/7.wmv
+Video_2019-05-27_174354.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/carousel/Video_2019-05-27_174354.wmv
+carousel.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/carousel/carousel.zip
+btn_onclick.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day01/btn_onclick.wmv
+day01 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day01/day01%20pm.zip
+iterator.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day01/iterator.wmv
+chbAll1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day02/chbAll1.wmv
+chbAll2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day02/chbAll2.wmv
+chbAll_closure.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day02/chbAll_closure.wmv
+day02 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day02/day02%20am.zip
+day02 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day02/day02%20pm.zip
+door.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day02/door.wmv
+door_transition.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day02/door_transition.wmv
+menu.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day02/menu.wmv
+menu_height.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day02/menu_height.wmv
+menu_transition.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day02/menu_transition.wmv
+span_n.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day02/span_n.wmv
+subtotal.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day02/subtotal.wmv
+total.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day02/total.wmv
+data-.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day03/data-.wmv
+day03 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day03/day03%20am.zip
+day03 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day03/day03%20pm.zip
+select.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day03/select.wmv
+tabs.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day03/tabs.wmv
+vali1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day03/vali1.wmv
+vali2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day03/vali2.wmv
+day04 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day04/day04%20am.zip
+day04 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day04/day04%20pm.zip
+deleteRow.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day04/deleteRow.wmv
+history.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day04/history.wmv
+userAgent.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day04/userAgent.wmv
+day05 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day05/day05%20am.zip
+day05 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day05/day05%20pm.zip
+dragdrop.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day05/dragdrop.wmv
+event delegate.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day05/event%20delegate.wmv
+day01 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day01/day01%20am.zip
+day01 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day01/day01%20pm.zip
+jQuery API error.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day01/jQuery%20API%20error.wmv
+jQuery API.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day01/jQuery%20API.wmv
+jQuery.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day01/jQuery.wmv
+alert.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day02/alert.wmv
+day02 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day02/day02%20am.zip
+day02 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day02/day02%20pm.zip
+event.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day02/event.wmv
+accordion.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day03/accordion.wmv
+day03 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day03/day03%20am.zip
+day03 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day03/day03%20pm.zip
+Browser to Server.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day04/Browser%20to%20Server.png
+Browser to Server.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day04/Browser%20to%20Server.zip
+CORS-word.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day04/CORS-word.png
+day04 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day04/day04%20am.zip
+day04 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day04/day04%20pm.zip
+details1.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/pngs/details1.png
+details1_code.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/pngs/details1_code.png
+details2_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/pngs/details2_html.png
+details2_js.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/pngs/details2_js.png
+details2_zoom1_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/pngs/details2_zoom1_html.png
+details2_zoom1_js.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/pngs/details2_zoom1_js.png
+details2_zoom2_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/pngs/details2_zoom2_html.png
+details2_zoom2_js.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/pngs/details2_zoom2_js.png
+details2_zoom2_pic.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/pngs/details2_zoom2_pic.png
+details2_zoom3_js.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/pngs/details2_zoom3_js.png
+details2_zoom3_supermask.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/pngs/details2_zoom3_supermask.png
+details2_zoom3_x_y.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/pngs/details2_zoom3_x_y.png
+details2_zoom4_bgposition.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/pngs/details2_zoom4_bgposition.png
+details2_zoom4_bgposition_js.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/pngs/details2_zoom4_bgposition_js.png
+node details.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/pngs/node%20details.png
+open project.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/pngs/open%20project.png
+details1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/videos/details1.wmv
+details2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/videos/details2.wmv
+details_zoom1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/videos/details_zoom1.wmv
+details_zoom3.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/videos/details_zoom3.wmv
+details_zoom4.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/videos/details_zoom4.wmv
+frontend vs backend.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/13-PROJECT/videos/frontend%20vs%20backend.wmv
+day01 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day01/day01%20pm.zip
+day02 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day02/day02%20am.zip
+day02 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day02/day02%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day02/questions.docx
+axios.min.js
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day03/axios.min.js
+day03 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day03/day03%20am.zip
+day03 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day03/day03%20pm.zip
+question.docx
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day03/question.docx
+2_props_todo.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day04/2_props_todo.png
+2_props_todoAdd.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day04/2_props_todoAdd.png
+2_props_todoList.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day04/2_props_todoList.png
+SPA word.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day04/SPA%20word.png
+SPA.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day04/SPA.png
+day04 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day04/day04%20am.zip
+day04 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day04/day04%20pm.zip
+props steps.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day04/props%20steps.png
+props word.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day04/props%20word.png
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day04/questions.docx
+vue create word.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day04/vue%20create%20word.png
+Carousel.1.vue
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/vue_carousel/Carousel.1.vue
+Carousel.2.vue
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/vue_carousel/Carousel.2.vue
+Carousel.3.vue
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/vue_carousel/Carousel.3.vue
+Carousel.4.vue
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/vue_carousel/Carousel.4.vue
+Carousel.vue
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/vue_carousel/Carousel.vue
+Message.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/vue_carousel/Message.zip
+MessageList.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/vue_carousel/MessageList.zip
+vue_carousel1.mov
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/vue_carousel/vue_carousel1.mov
+vue_carousel2.mov
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/vue_carousel/vue_carousel2.mov
+vue_carousel3.mov
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/vue_carousel/vue_carousel3.mov
+vue_carousel4.mov
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/vue_carousel/vue_carousel4.mov
+vue_carousel5.mov
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/vue_carousel/vue_carousel5.mov
+xz_index_vue.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/15-PROJECT/videos/xz_index_vue.wmv
+xz_vue_details.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/15-PROJECT/videos/xz_vue_details.wmv
+03_exam03_vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/03_exam03_vue.jpg
+04_field.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/04_field.jpg
+05_router.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/05_router.js.jpg
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/day01pm.zip
+download.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/download.zip
+vue_app_000.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/vue_app_000.zip
+02_exam05.vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day02/02_exam05.vue.jpg
+03_exam07.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day02/03_exam07.jpg
+04_examtabbar08.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day02/04_examtabbar08.jpg
+05_exam.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day02/05_exam.jpg
+ExamContainer06.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day02/ExamContainer06.zip
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day02/day02pm.zip
+homework.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day02/homework.jpg
+resource.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day02/resource.zip
+01_titlebat.vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day03/01_titlebat.vue.jpg
+02_home.vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day03/02_home.vue.jpg
+03_messagelist.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day03/03_messagelist.jpg
+04_message.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day03/04_message.jpg
+05_rouer.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day03/05_rouer.js.jpg
+06_message.vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day03/06_message.vue.jpg
+07_messagelist.vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day03/07_messagelist.vue.jpg
+08_message.vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day03/08_message.vue.jpg
+assets.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day03/assets.zip
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day03/day03pm.zip
+01_weixin.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day04/01_weixin.zip
+02_src.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day04/02_src.zip
+03_weixin.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day04/03_weixin.zip
+all_doc.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day04/all_doc.zip
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day04/day04pm.zip
+db.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day04/db.zip
+home.vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day04/home.vue.jpg
+n.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day04/n.zip
+vue_server_00.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day04/vue_server_00.zip
+02_axios.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day05/02_axios.js.jpg
+03_login.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day05/03_login.jpg
+04_loginvue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day05/04_loginvue.jpg
+05_app.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day05/05_app.zip
+05_vue_app_00.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day05/05_vue_app_00.zip
+05_vue_server_00.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day05/05_vue_server_00.zip
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day05/day05am.zip
+day05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day05/day05pm.zip
+db.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day05/db.zip
+jpg.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day05/jpg.zip
+vue_app_00.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day05/vue_app_00.zip
+vue_server_00.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day05/vue_server_00.zip
+01_product.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/01_product.jpg
+02_app.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/02_app.zip
+02_product.vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/02_product.vue.jpg
+03_app.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/03_app.zip
+03_cart_vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/03_cart_vue.jpg
+04_cart_vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/04_cart_vue.jpg
+05_cartvue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/05_cartvue.jpg
+06_cartvue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/06_cartvue.jpg
+07_cartvue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/07_cartvue.jpg
+day06am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/day06am.zip
+day06pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/day06pm.zip
+db.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/db.zip
+img.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/img.zip
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day01/day01pm.zip
+end_vue_app_00.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day01/end_vue_app_00.zip
+end_vue_server_00.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day01/end_vue_server_00.zip
+res.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day01/res.zip
+浼楃鑰佸笀鍚師鐞�.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day01/%e4%bc%97%e7%a3%8a%e8%80%81%e5%b8%88%e5%90%ac%e5%8e%9f%e7%90%86.zip
+01_all_doc.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/01_all_doc.zip
+01_homework.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/01_homework.jpg
+02_homework.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/02_homework.jpg
+03_video.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/03_video.jpg
+04_video.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/04_video.jpg
+05_Rect.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/05_Rect.jpg
+06_rect.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/06_rect.jpg
+07_rect.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/07_rect.jpg
+07_rect_exam.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/07_rect_exam.zip
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/day02pm.zip
+01_path.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day03/01_path.jpg
+02_path.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day03/02_path.jpg
+03_img.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day03/03_img.jpg
+04_img.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day03/04_img.jpg
+05_img.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day03/05_img.jpg
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day03/day03pm.zip
+01_homework.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day04/01_homework.jpg
+02_circle.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day04/02_circle.jpg
+03_svg.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day04/03_svg.jpg
+04_img.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day04/04_img.jpg
+06_echarts.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day04/06_echarts.jpg
+07_echart.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day04/07_echart.zip
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day04/day04pm.zip
+echarts.min.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day04/echarts.min.zip
+echarts.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day04/echarts.zip
+01_drop.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day05/01_drop.jpg
+01_homework.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day05/01_homework.zip
+02_drop_exam.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day05/02_drop_exam.jpg
+03_work.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day05/03_work.zip
+04.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day05/04.zip
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day05/day05am.zip
+day05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day05/day05pm.zip
+01_homework.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day06/01_homework.jpg
+02_homework.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day06/02_homework.jpg
+03_ws_client.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day06/03_ws_client.jpg
+04_main.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day06/04_main.jpg
+05_ane.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day06/05_ane.jpg
+day06am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day06/day06am.zip
+day06pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day06/day06pm.zip
+homework.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day06/homework.zip
+tinyGame_03.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day06/tinyGame_03.zip
+user.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day06/user.zip
+ws_src.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day06/ws_src.zip
+01_ane2.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day07/01_ane2.jpg
+01_js.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day07/01_js.zip
+02_fruit.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day07/02_fruit.jpg
+day07am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day07/day07am.zip
+day07pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day07/day07pm.zip
+wechat_devtools_1.02.1904090_x64.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day07/wechat_devtools_1.02.1904090_x64.zip
+01_js.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day01/01_js.zip
+02_js.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day01/02_js.zip
+all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day01/all.zip
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day01/day01pm.zip
+icons.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day01/icons.zip
+tinyGame_03.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day01/tinyGame_03.zip
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day02/day02pm.zip
+pages.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day02/pages.zip
+01_db.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day03/01_db.zip
+01_homework.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day03/01_homework.jpg
+03_cloud_function.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day03/03_cloud_function.jpg
+04_cloud.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day03/04_cloud.jpg
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day03/day03pm.zip
+01_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day04/01_all.zip
+01_homework.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day04/01_homework.jpg
+02_homework.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day04/02_homework.jpg
+03_movelist.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day04/03_movelist.jpg
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day04/day04pm.zip
+home.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day04/home.zip
+homework.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day04/homework.zip
+鐢靛奖api.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day04/%e7%94%b5%e5%bd%b1api.zip
+璞嗙摚鐢靛奖鐨凙PI鎺ュ彛.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day04/%e8%b1%86%e7%93%a3%e7%94%b5%e5%bd%b1%e7%9a%84API%e6%8e%a5%e5%8f%a3.zip
+02_comment.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day05/02_comment.zip
+comment.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day05/comment.zip
+common.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day05/common.js.jpg
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day05/day05am.zip
+day05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day05/day05pm.zip
+home.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day05/home.js.jpg
+home.wxml.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day05/home.wxml.jpg
+01_comment.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day06/01_comment.jpg
+02_commentjs.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day06/02_commentjs.jpg
+03_commentjs.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day06/03_commentjs.jpg
+04_commentjs.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day06/04_commentjs.jpg
+05_commentjs.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day06/05_commentjs.jpg
+day06am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day06/day06am.zip
+day06pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day06/day06pm.zip
+images.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day06/images.zip
+phonegap瀹夎鍖�.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day06/phonegap%e5%ae%89%e8%a3%85%e5%8c%85.zip
+01_閫変腑鍥剧墖.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/avi/01_%e9%80%89%e4%b8%ad%e5%9b%be%e7%89%87.wmv
+02_涓婁紶鍥剧墖.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/avi/02_%e4%b8%8a%e4%bc%a0%e5%9b%be%e7%89%87.wmv
+03_涓婁紶鍥剧墖.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/avi/03_%e4%b8%8a%e4%bc%a0%e5%9b%be%e7%89%87.wmv
+04_鍙戣〃鎴愬姛.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/avi/04_%e5%8f%91%e8%a1%a8%e6%88%90%e5%8a%9f.wmv
+05_瀹夎鐜.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/avi/05_%e5%ae%89%e8%a3%85%e7%8e%af%e5%a2%83.wmv
+06_瀹夎鐜.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/avi/06_%e5%ae%89%e8%a3%85%e7%8e%af%e5%a2%83.wmv
+07_瀹夎鐜.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/avi/07_%e5%ae%89%e8%a3%85%e7%8e%af%e5%a2%83.wmv
+08_绗竴涓璞evice.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/avi/08_%e7%ac%ac%e4%b8%80%e4%b8%aa%e5%af%b9%e8%b1%a1device.wmv
+09_鎻愮ず娑堟伅.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/19_phonegap/avi/09_%e6%8f%90%e7%a4%ba%e6%b6%88%e6%81%af.wmv
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/2-mysql/DAY01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/2-mysql/DAY01/day01pm.zip
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/2-mysql/DAY02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/2-mysql/DAY02/day02pm.zip
+01_tedu.sql
+	http://code.tarena.com.cn/WEBCode/wfd1903/2-mysql/DAY03/01_tedu.sql
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/2-mysql/DAY03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/2-mysql/DAY03/day03pm.zip
+angular-cli.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/20-ng/day01/angular-cli.zip
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/20-ng/day01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/20-ng/day01/day01pm.zip
+myngapp01.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/20-ng/day01/myngapp01.zip
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/20-ng/day02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/20-ng/day02/day02pm.zip
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/20-ng/day03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/20-ng/day03/day03pm.zip
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/20-ng/day04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/20-ng/day04/day04pm.zip
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/20-ng/day05/day05am.zip
+day05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/20-ng/day05/day05pm.zip
+myionicapp01.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/20-ng/day05/myionicapp01.zip
+day06am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/20-ng/day06/day06am.zip
+day06pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/20-ng/day06/day06pm.zip
+Ionic椤圭洰杩愯鏁堟灉鍥�.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/20-ng/day07/Ionic%e9%a1%b9%e7%9b%ae%e8%bf%90%e8%a1%8c%e6%95%88%e6%9e%9c%e5%9b%be.zip
+day07am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/20-ng/day07/day07am.zip
+day07pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/20-ng/day07/day07pm.zip
+DAY01AM.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY01/DAY01AM.zip
+DAY01PM.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY01/DAY01PM.zip
+js.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY01/js.zip
+DAY02_ALL.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY02/DAY02_ALL.zip
+DAY02_AM.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY02/DAY02_AM.zip
+MyStudentAdd.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY03/MyStudentAdd.jpg
+MyStudentList.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY03/MyStudentList.jpg
+MyStudentManagement.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY03/MyStudentManagement.jpg
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY03/day03pm.zip
+myreactapp03.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY03/myreactapp03.zip
+myrnapp01.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY03/myrnapp01.zip
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY04/day04pm.zip
+MyRNProject_椤圭洰鍥剧墖.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY05/MyRNProject_%e9%a1%b9%e7%9b%ae%e5%9b%be%e7%89%87.zip
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY05/day05am.zip
+day05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY05/day05pm.zip
+MyRNProject_鍥剧墖.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY06/MyRNProject_%e5%9b%be%e7%89%87.zip
+day06am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY06/day06am.zip
+day06pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY06/day06pm.zip
+src_涓嬪崍15鐐�.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY06/src_%e4%b8%8b%e5%8d%8815%e7%82%b9.zip
+src_涓嬪崍17鐐�.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY06/src_%e4%b8%8b%e5%8d%8817%e7%82%b9.zip
+day07am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY07/day07am.zip
+day07pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY07/day07pm.zip
+loading.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY07/loading.jpg
+python-3.7.4-amd64.exe
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY07/python-3.7.4-amd64.exe
+src_涓嬪崍15鐐�.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/21-REACT/DAY07/src_%e4%b8%8b%e5%8d%8815%e7%82%b9.zip
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/22-PYTHON/day01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/22-PYTHON/day01/day01pm.zip
+src_RN椤圭洰鏈�缁堥棶棰樿В鍐虫柟妗�.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/22-PYTHON/day01/src_RN%e9%a1%b9%e7%9b%ae%e6%9c%80%e7%bb%88%e9%97%ae%e9%a2%98%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88.zip
+鍥剧墖绛夋瘮渚嬬缉鏀惧叕寮�.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/22-PYTHON/day01/%e5%9b%be%e7%89%87%e7%ad%89%e6%af%94%e4%be%8b%e7%bc%a9%e6%94%be%e5%85%ac%e5%bc%8f.jpg
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/22-PYTHON/day02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/22-PYTHON/day02/day02pm.zip
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/22-PYTHON/day03/day03am.zip
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY01/day01pm.zip
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY02/day02pm.zip
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY03/day03pm.zip
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY04/day04pm.zip
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY05/day05am.zip
+day05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY05/day05pm.zip
+day06am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY06/day06am.zip
+day06pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY06/day06pm.zip
+day07am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY07/day07am.zip
+day07pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY07/day07pm.zip
+day08am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY08/day08am.zip
+day08pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY08/day08pm.zip
+day09am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY09/day09am.zip
+day09pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY09/day09pm.zip
+day10am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/3-js/DAY10/day10am.zip
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY01/day01pm.zip
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY02/day02pm.zip
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY03/day03pm.zip
+node_modules.rar
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY03/node_modules.rar
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY04/day04pm.zip
+04_post.js
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY05/04_post.js
+1015.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY05/1015.zip
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY05/day05am.zip
+day05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY05/day05pm.zip
+01_homework.js
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY06/01_homework.js
+1058.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY06/1058.png
+1131.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY06/1131.zip
+1444.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY06/1444.png
+1604.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY06/1604.png
+1647.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY06/1647.png
+1739.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY06/1739.png
+day06am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY06/day06am.zip
+day06pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY06/day06pm.zip
+xz.sql
+	http://code.tarena.com.cn/WEBCode/wfd1903/4-nodejs/DAY06/xz.sql
+1.key
+	http://code.tarena.com.cn/WEBCode/wfd1903/5-html/DAY01/1.key
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/5-html/DAY01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/5-html/DAY01/day01pm.zip
+web绗簩闃舵缁冧範鏁堟灉鍥剧ず.7z
+	http://code.tarena.com.cn/WEBCode/wfd1903/5-html/DAY01/web%e7%ac%ac%e4%ba%8c%e9%98%b6%e6%ae%b5%e7%bb%83%e4%b9%a0%e6%95%88%e6%9e%9c%e5%9b%be%e7%a4%ba.7z
+01_table.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/5-html/DAY02/01_table.png
+day02_color.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1903/5-html/DAY02/day02_color.mp4
+day02_url.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1903/5-html/DAY02/day02_url.mp4
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/5-html/DAY02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/5-html/DAY02/day02pm.zip
+day02vid.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/5-html/DAY02/day02vid.zip
+day03_form1.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1903/5-html/DAY03/day03_form1.mp4
+day03_form2.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1903/5-html/DAY03/day03_form2.mp4
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY01/day01pm.zip
+day01vidam.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY01/day01vidam.zip
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY02/day02pm.zip
+day04_formdata.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY02/day04_formdata.mp4
+02_even.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY03/02_even.png
+02_ex.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY03/02_ex.png
+03_ex.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY03/03_ex.png
+08_ex.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY03/08_ex.png
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY03/day03pm.zip
+day03vidam.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY03/day03vidam.zip
+day03vidpm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY03/day03vidpm.zip
+day05_byTagName.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY03/day05_byTagName.mp4
+day05_innerHTML.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY03/day05_innerHTML.mp4
+day05_node.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY03/day05_node.mp4
+day05_onreadystatechange.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY03/day05_onreadystatechange.mp4
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY04/day04pm.zip
+day04vid.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY04/day04vid.zip
+day06_getlogin_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY04/day06_getlogin_html.png
+day06_getlogin_node.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY04/day06_getlogin_node.png
+day06_post_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY04/day06_post_html.png
+day06_post_node.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY04/day06_post_node.png
+day06_pro_login_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY04/day06_pro_login_html.png
+day06_pro_login_node.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY04/day06_pro_login_node.png
+day06_userlist_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY04/day06_userlist_html.png
+day06_userlist_node.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY04/day06_userlist_node.png
+day06_xml.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY04/day06_xml.mp4
+02_list_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY05/02_list_html.png
+02_list_node.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY05/02_list_node.png
+03_delete_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY05/03_delete_html.png
+03_delete_node.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY05/03_delete_node.png
+04_update01_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY05/04_update01_html.png
+04_update01_node.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY05/04_update01_node.png
+05_update02_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY05/05_update02_html.png
+05_update02_node.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY05/05_update02_node.png
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY05/day05am.zip
+day05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY05/day05pm.zip
+day07.docx
+	http://code.tarena.com.cn/WEBCode/wfd1903/6-ajax/DAY05/day07.docx
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY01/day01pm.zip
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY02/day02pm.zip
+04_login.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY03/04_login.png
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY03/day03pm.zip
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY04/day04pm.zip
+day04vid.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY04/day04vid.zip
+day11_float.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY04/day11_float.mp4
+luntan01.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY04/luntan01.png
+luntan02.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY04/luntan02.png
+01_ex.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY05/01_ex.png
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY05/day05am.zip
+day05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY05/day05pm.zip
+day06am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY06/day06am.zip
+day06pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY06/day06pm.zip
+homeword.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY06/homeword.png
+xz_1F.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/7-css/DAY06/xz_1F.png
+animate.css
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY01/animate.css
+apple.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY01/apple.jpg
+ball.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY01/ball.png
+chengliang.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY01/chengliang.jpg
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY01/day01pm.zip
+kun.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY01/kun.jpg
+01_ex.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY02/01_ex.png
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY02/day02pm.zip
+day02vidam.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY02/day02vidam.zip
+day02vidpm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY02/day02vidpm.zip
+day15_boot_template.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY02/day15_boot_template.mp4
+day15_webstrom.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY02/day15_webstrom.mp4
+day15_webstrom_reg.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY02/day15_webstrom_reg.mp4
+01_ex.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY03/01_ex.png
+03_ex.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY03/03_ex.png
+04_ex.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY03/04_ex.png
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY03/day03pm.zip
+form+grid.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY03/form%2bgrid.png
+carousel.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY04/carousel.png
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY04/day04pm.zip
+homework.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY04/homework.png
+html_collapse_navbar.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY04/html_collapse_navbar.png
+note_collapse_navbar.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY04/note_collapse_navbar.png
+SCSS64bit.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY05/SCSS64bit.zip
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY05/day05am.zip
+day05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY05/day05pm.zip
+sass鍖�.rar
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY05/sass%e5%8c%85.rar
+scss01.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY05/scss01.png
+comm_css_v1.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY06/comm_css_v1.png
+day06am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY06/day06am.zip
+day06pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY06/day06pm.zip
+footer_css.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY06/footer_css.png
+footer_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY06/footer_html.png
+header_css.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY06/header_css.png
+header_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY06/header_html.png
+index-1L-css.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY06/index-1L-css.png
+index-1L-html.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY06/index-1L-html.png
+index-1L.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY06/index-1L.png
+index-1L_top_left-css.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY06/index-1L_top_left-css.png
+index-1L_top_left-html.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY06/index-1L_top_left-html.png
+index_carousel_css.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY06/index_carousel_css.png
+index_carousel_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY06/index_carousel_html.png
+day07am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY07/day07am.zip
+day07pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY07/day07pm.zip
+details_css_v1.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY07/details_css_v1.png
+details_css_v2.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY07/details_css_v2.png
+details_html_v1.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY07/details_html_v1.png
+details_html_v2.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY07/details_html_v2.png
+list_css_v2.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY07/list_css_v2.png
+list_css_v3.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY07/list_css_v3.png
+list_html_v1.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY07/list_html_v1.png
+list_html_v2.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY07/list_html_v2.png
+list_html_v3.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY07/list_html_v3.png
+list_v2.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/8-boot/DAY07/list_v2.png
+1_regexp.pptx
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/DAY01/1_regexp.pptx
+JSCORE day01.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/DAY01/JSCORE%20day01.zip
+day01 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/DAY01/day01%20pm.zip
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/DAY01/day01am.zip
+day02 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day02/day02%20am.zip
+day02 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day02/day02%20pm.zip
+english.docx
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day02/english.docx
+indexOf.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day02/indexOf.wmv
+match.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day02/match.wmv
+regexp.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day02/regexp.wmv
+replace2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day02/replace2.wmv
+search.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day02/search.wmv
+split2.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day02/split2.png
+day03 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day03/day03%20am.zip
+day03 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day03/day03%20pm.zip
+hoist1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day03/hoist1.wmv
+hoist2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day03/hoist2.wmv
+hoist3.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day03/hoist3.wmv
+morning.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day03/morning.wmv
+niming.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day03/niming.wmv
+overload.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day03/overload.wmv
+closure.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day04/closure.png
+closure1.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day04/closure1.png
+closure1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day04/closure1.wmv
+closure2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day04/closure2.wmv
+day04 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day04/day04%20am.zip
+day04 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day04/day04%20pm.zip
+niming.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day04/niming.wmv
+object_this.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day04/object_this.wmv
+scope.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day04/scope.wmv
+scope2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day04/scope2.wmv
+scopechain.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day04/scopechain.wmv
+scopechain2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day04/scopechain2.wmv
+Array.prototype.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day05/Array.prototype.wmv
+clone.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day05/clone.wmv
+constructor.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day05/constructor.wmv
+constructor2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day05/constructor2.wmv
+day05 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day05/day05%20am.zip
+day05 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day05/day05%20pm.zip
+funs.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day05/funs.wmv
+homework.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day05/homework.wmv
+override.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day05/override.wmv
+day06 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day06/day06%20am.zip
+day06 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day06/day06%20pm.zip
+fib.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day06/fib.wmv
+fib2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day06/fib2.wmv
+get_set.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day06/get_set.wmv
+this.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day06/this.wmv
+call.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day07/call.wmv
+day07 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day07/day07%20am.zip
+day07 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day07/day07%20pm.zip
+every.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day07/every.wmv
+every2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day07/every2.wmv
+forEach.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day07/forEach.wmv
+forEach2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day07/forEach2.wmv
+map.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day07/map.wmv
+day08 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day08/day08%20am.zip
+day08 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day08/day08%20pm.zip
+filter.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day08/filter.wmv
+reduce.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day08/reduce.wmv
+callback.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day09/callback.wmv
+day09 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day09/day09%20am.zip
+promise.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day09/promise.png
+promise.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day09/promise.wmv
+promise_data.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day09/promise_data.png
+promise_data.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/9-JSCORE/day09/promise_data.wmv
+03_ex.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day01/03_ex.png
+bootstrap.css
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day01/bootstrap.css
+bootstrap.min.js
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day01/bootstrap.min.js
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day01/day01pm.zip
+day15_boot_template.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day01/day15_boot_template.mp4
+jquery.min.js
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day01/jquery.min.js
+popper.min.js
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day01/popper.min.js
+00_home.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day02/00_home.png
+03_ex.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day02/03_ex.png
+04_ex_1.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day02/04_ex_1.png
+04_ex_2.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day02/04_ex_2.png
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day02/day02pm.zip
+day16_04_ex.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day02/day16_04_ex.mp4
+03_collapse+navbar.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day03/03_collapse%2bnavbar.png
+03_collapse+navbar_all.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day03/03_collapse%2bnavbar_all.png
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day03/day03pm.zip
+day17_dropdown.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day03/day17_dropdown.mp4
+carousel.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day04/carousel.png
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day04/day04pm.zip
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day05/day05am.zip
+day05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day05/day05pm.zip
+footer_ex.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day05/footer_ex.png
+footer_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day05/footer_html.png
+header_comm.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day05/header_comm.png
+header_css.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day05/header_css.png
+header_ex.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day05/header_ex.png
+header_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day05/header_html.png
+inde-1L-ex.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day05/inde-1L-ex.png
+index_01_css.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day05/index_01_css.png
+index_01_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day05/index_01_html.png
+logo.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day05/logo.png
+day06am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day06/day06am.zip
+day06pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day06/day06pm.zip
+details01_css.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day06/details01_css.png
+details01_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day06/details01_html.png
+index_1L_css.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day06/index_1L_css.png
+index_1L_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day06/index_1L_html.png
+list01_css.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day06/list01_css.png
+list01_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day06/list01_html.png
+list02_css.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day06/list02_css.png
+list02_ex.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day06/list02_ex.png
+list02_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/BOOT/day06/list02_html.png
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day01/day01pm.zip
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day02/day02pm.zip
+05_ex.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day03/05_ex.png
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day03/day03pm.zip
+04_ex.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day04/04_ex.png
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day04/day04pm.zip
+day11-clear.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day04/day11-clear.mp4
+day11_float_1.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day04/day11_float_1.mp4
+璇惧悗浣滀笟.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day04/%e8%af%be%e5%90%8e%e4%bd%9c%e4%b8%9a.png
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day05/day05am.zip
+day05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day05/day05pm.zip
+day12_absolute.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day05/day12_absolute.mp4
+timg (1).jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day05/timg%20%281%29.jpg
+03_selector.html
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day06/03_selector.html
+04_selector.html
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day06/04_selector.html
+day06am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day06/day06am.zip
+day06pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day06/day06pm.zip
+day13_after.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day06/day13_after.mp4
+day13_webstrom.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day06/day13_webstrom.mp4
+kun.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day06/kun.jpg
+animate.css
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day07/animate.css
+day07am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day07/day07am.zip
+day07pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day07/day07pm.zip
+day14_animate.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day07/day14_animate.mp4
+kun.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day07/kun.jpg
+day01 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day01/day01%20pm.zip
+day02 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day02/day02%20am.zip
+day02 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day02/day02%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day02/questions.docx
+day03 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day03/day03%20am.zip
+day03 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day03/day03%20pm.zip
+menu.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day03/menu.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day03/questions.docx
+day04 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day04/day04%20am.zip
+day04 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day04/day04%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day04/questions.docx
+day05 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05/day05%20am.zip
+day05 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05/day05%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05/questions.docx
+day01_edi_1.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY01/day01_edi_1.mp4
+day01_editplus.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY01/day01_editplus.mp4
+day01_meta_utf8.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY01/day01_meta_utf8.mp4
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY01/day01pm.zip
+day02_getColor.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY02/day02_getColor.mp4
+day02_templates.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY02/day02_templates.mp4
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY02/day02pm.zip
+02_ex.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY03/02_ex.png
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY03/day03pm.zip
+day04_req.res.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY04/day04_req.res.mp4
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY04/day04pm.zip
+02_ajax_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY05/02_ajax_html.png
+02_ajax_node.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY05/02_ajax_node.png
+day05_ajax01.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY05/day05_ajax01.mp4
+day05_onreadystatechange.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY05/day05_onreadystatechange.mp4
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY05/day05am.zip
+day05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY05/day05pm.zip
+day06am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY06/day06am.zip
+day06pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY06/day06pm.zip
+login_v1_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY06/login_v1_html.png
+login_v1_node.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY06/login_v1_node.png
+userlist_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY06/userlist_html.png
+day07.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY07/day07.docx
+day07am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY07/day07am.zip
+day07pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY07/day07pm.zip
+del_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY07/del_html.png
+del_node.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY07/del_node.png
+login_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY07/login_html.png
+login_node.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY07/login_node.png
+queryByid_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY07/queryByid_html.png
+queryByid_node.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY07/queryByid_node.png
+userlist_html.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY07/userlist_html.png
+userlist_node.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML/DAY07/userlist_node.png
+01_cart.vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/01_cart.vue.jpg
+02_cart.vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/02_cart.vue.jpg
+03_cart.vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/03_cart.vue.jpg
+04_cart.vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/04_cart.vue.jpg
+05_.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/05_.jpg
+06_main.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/06_main.js.jpg
+07_main.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/07_main.js.jpg
+08_main.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/08_main.jpg
+09_cart.vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/09_cart.vue.jpg
+123.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/123.png
+Cart.vue
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/Cart.vue
+all.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/all.docx
+app.js
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/app.js
+avi01all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/avi01all.zip
+aviam.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/aviam.zip
+cut01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/cut01pm.zip
+cutam.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/cutam.zip
+main.js
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/main.js
+vue_app_00.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/vue_app_00.zip
+vue_server_00.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day01/vue_server_00.zip
+03_video.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day02/03_video.jpg
+04_video.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day02/04_video.jpg
+05_canvas.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day02/05_canvas.jpg
+06_canvas.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day02/06_canvas.jpg
+07_canvas.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day02/07_canvas.jpg
+Html5鏂扮壒鎬�.mmap
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day02/Html5%e6%96%b0%e7%89%b9%e6%80%a7.mmap
+Vue UI 缁勪欢搴�.mmap
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day02/Vue%20UI%20%e7%bb%84%e4%bb%b6%e5%ba%93.mmap
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day02/day02pm.zip
+res.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day02/res.zip
+02_path.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day03/02_path.jpg
+04_path.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day03/04_path.jpg
+05_canvas.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day03/05_canvas.jpg
+06_canvas.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day03/06_canvas.jpg
+07_canvas.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day03/07_canvas.jpg
+08_canvas.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day03/08_canvas.jpg
+09_canvas.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day03/09_canvas.jpg
+123.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day03/123.png
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day03/day03pm.zip
+02_main.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day04/02_main.jpg
+03_msg.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day04/03_msg.jpg
+05_msg.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day04/05_msg.jpg
+06_main.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day04/06_main.js.jpg
+07_main.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day04/07_main.js.jpg
+08_msg.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day04/08_msg.jpg
+09_main.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day04/09_main.jpg
+1644_src.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day04/1644_src.zip
+2019-08-08_095026.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day04/2019-08-08_095026.jpg
+Html5鏂扮壒鎬�.mmap
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day04/Html5%e6%96%b0%e7%89%b9%e6%80%a7.mmap
+all.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day04/all.docx
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day04/day04pm.zip
+index.html.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day04/index.html.jpg
+src.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day04/src.zip
+寮瑰箷浠诲姟 (2).jpeg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day04/%e5%bc%b9%e5%b9%95%e4%bb%bb%e5%8a%a1%20%282%29.jpeg
+01_homework.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day06/01_homework.jpg
+02_index.html.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day06/02_index.html.jpg
+03_main.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day06/03_main.js.jpg
+04_main.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day06/04_main.js.jpg
+day06pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day06/day06pm.zip
+tinyGame_03.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day06/tinyGame_03.zip
+02_ane2.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day07/02_ane2.js.jpg
+03_game.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day07/03_game.zip
+04_ane.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day07/04_ane.js.jpg
+04_game.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day07/04_game.zip
+05_ane.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day07/05_ane.js.jpg
+06_fruit.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day07/06_fruit.jpg
+avi.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day07/avi.zip
+day07am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day07/day07am.zip
+day07pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day07/day07pm.zip
+game.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day07/game.zip
+v_02_game.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day07/v_02_game.zip
+03_chart.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day5/03_chart.jpg
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day5/day05am.zip
+day05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day5/day05pm.zip
+echarts.min.js
+	http://code.tarena.com.cn/WEBCode/wfd1904/HTML5/day5/echarts.min.js
+day01 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day01/day01%20am.zip
+day01 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day01/day01%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day01/questions.docx
+day02 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day02/day02%20am.zip
+day02 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day02/day02%20pm.zip
+day03 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day03/day03%20am.zip
+day03 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day03/day03%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day03/questions.docx
+day04 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day04/day04%20am.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day04/questions.docx
+xz.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day04/xz.zip
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JS/DAY01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JS/DAY01/day01pm.zip
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JS/DAY02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JS/DAY02/day02pm.zip
+鑷鑷噺缁冧範.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/JS/DAY02/%e8%87%aa%e5%a2%9e%e8%87%aa%e5%87%8f%e7%bb%83%e4%b9%a0.png
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JS/DAY03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JS/DAY03/day03pm.zip
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JS/DAY04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JS/DAY04/day04pm.zip
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JS/DAY05/day05am.zip
+day05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JS/DAY05/day05pm.zip
+day06all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JS/DAY06/day06all.zip
+day07am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JS/DAY07/day07am.zip
+day07pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JS/DAY07/day07pm.zip
+day08am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JS/DAY08/day08am.zip
+day08pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JS/DAY08/day08pm.zip
+day09all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JS/DAY09/day09all.zip
+day01 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day01/day01%20am.zip
+day01 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day01/day01%20pm.zip
+english.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day01/english.docx
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day01/questions.docx
+day02 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day02/day02%20am.zip
+day02 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day02/day02%20pm.zip
+english.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day02/english.docx
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day02/questions.docx
+day03 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day03/day03%20am.zip
+day03 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day03/day03%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day03/questions.docx
+day04 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day04/day04%20am.zip
+day04 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day04/day04%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day04/questions.docx
+day05 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day05/day05%20am.zip
+day05 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day05/day05%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day05/questions.docx
+day06 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day06/day06%20am.zip
+day06 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day06/day06%20pm.zip
+english.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day06/english.docx
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day06/questions.docx
+day07 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day07/day07%20am.zip
+day07 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day07/day07%20pm.zip
+english.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day07/english.docx
+operators.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day07/operators.jpg
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day07/questions.docx
+day08 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day08/day08%20am.zip
+day08 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day08/day08%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day08/questions.docx
+day09 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day09/day09%20am.zip
+day09 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day09/day09%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day09/questions.docx
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/MYSQL/DAY02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/MYSQL/DAY02/day02pm.zip
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/MYSQL/DAY03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/MYSQL/DAY03/day03pm.zip
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/MYSQL/DAY04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/MYSQL/DAY04/day04pm.zip
+xz.sql
+	http://code.tarena.com.cn/WEBCode/wfd1904/MYSQL/DAY04/xz.sql
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY01/day01pm.zip
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY02/day02pm.zip
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY03/day03pm.zip
+node_modules.rar
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY03/node_modules.rar
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY04/day04pm.zip
+demo.html
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY04/demo.html
+router.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY04/router.zip
+zlib.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY04/zlib.zip
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY05/day05am.zip
+day05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY05/day05pm.zip
+2019-05-27_114543.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY06/2019-05-27_114543.png
+2019-05-27_143415.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY06/2019-05-27_143415.png
+2019-05-27_152926.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY06/2019-05-27_152926.png
+2019-05-27_164218.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY06/2019-05-27_164218.png
+2019-05-27_173735.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY06/2019-05-27_173735.png
+LWH.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY06/LWH.zip
+day06am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY06/day06am.zip
+day06pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY06/day06pm.zip
+pooljs.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY06/pooljs.png
+xz11.09.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/NODEJS/DAY06/xz11.09.zip
+details1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/PROJECT/videos/details1.wmv
+details2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/PROJECT/videos/details2.wmv
+details4.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/PROJECT/videos/details4.wmv
+details5.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/PROJECT/videos/details5.wmv
+index.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/PROJECT/videos/index.wmv
+day01all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/SERVER/DAY01/day01all.zip
+day01 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01/day01%20am.zip
+day01 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01/day01%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01/questions.docx
+vue-html.code-snippets
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01/vue-html.code-snippets
+vue-html.code-snippets.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01/vue-html.code-snippets.docx
+xz.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01/xz.zip
+axios.min.js
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02/axios.min.js
+day02 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02/day02%20am.zip
+day02 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02/day02%20pm.zip
+qs.min.js
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02/qs.min.js
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02/questions.docx
+xz.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02/xz.zip
+day03 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03/day03%20am.zip
+day03 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03/day03%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03/questions.docx
+vue-router.js
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03/vue-router.js
+xz.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03/xz.zip
+day04 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day04/day04%20am.zip
+day04 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day04/day04%20pm.zip
+vetur.vsix
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day04/vetur.vsix
+xzserver.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day04/xzserver.zip
+xzvue.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day04/xzvue.zip
+all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day01/all.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day01/day01pm.zip
+download.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day01/download.zip
+src.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day01/src.zip
+vue_app_000.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day01/vue_app_000.zip
+am02.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/am02.zip
+avi02.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/avi02.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/day02pm.zip
+01_titlebar.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/01_titlebar.jpg
+02_home.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/02_home.jpg
+03_titlebar.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/03_titlebar.jpg
+04_home.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/04_home.jpg
+05_titlebar.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/05_titlebar.jpg
+06_message.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/06_message.jpg
+07_messagelist.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/07_messagelist.jpg
+08_router.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/08_router.jpg
+09_message.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/09_message.jpg
+10_messagelist.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/10_messagelist.jpg
+11_message.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/11_message.jpg
+12_messagelist.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/12_messagelist.jpg
+13_home.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/13_home.jpg
+Home.vue
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/Home.vue
+MessageList.vue
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/MessageList.vue
+all.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/all.docx
+assets.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/assets.zip
+avi03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/avi03am.zip
+avi03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/avi03pm.zip
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/day03pm.zip
+home.vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/home.vue.jpg
+main.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/main.js.jpg
+messagelist.json
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/messagelist.json
+rouer.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/rouer.jpg
+src.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/src.zip
+titlebar.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day03/titlebar.jpg
+01.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day05/01.jpg
+01_app.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day05/01_app.js.jpg
+02_app.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day05/02_app.js.jpg
+02_app.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day05/02_app.zip
+03_product.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day05/03_product.jpg
+04_product.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day05/04_product.jpg
+05_product.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day05/05_product.jpg
+2019-08-01_154614.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day05/2019-08-01_154614.jpg
+all.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day05/all.docx
+app.js
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day05/app.js
+avi05.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day05/avi05.zip
+cut05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day05/cut05am.zip
+cut05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day05/cut05pm.zip
+db.sql
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day05/db.sql
+src05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day05/src05am.zip
+src05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day05/src05pm.zip
+vue_app_00.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day05/vue_app_00.zip
+vue_server_00.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day05/vue_server_00.zip
+01_product.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day06/01_product.jpg
+03_login.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day06/03_login.jpg
+04_cart.vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day06/04_cart.vue.jpg
+05_cart.vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day06/05_cart.vue.jpg
+06_product.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day06/06_product.jpg
+07_cart.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day06/07_cart.jpg
+08_cart.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day06/08_cart.jpg
+app.js
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day06/app.js
+avi06all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day06/avi06all.zip
+cut06am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day06/cut06am.zip
+cut06pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day06/cut06pm.zip
+db.sql
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day06/db.sql
+vue_app_00.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day06/vue_app_00.zip
+vue_server_00.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day06/vue_server_00.zip
+02_websocket.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day01/02_websocket.zip
+03_websocket.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day01/03_websocket.zip
+05_websocket.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day01/05_websocket.zip
+06_websocket.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day01/06_websocket.zip
+app.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day01/app.js.jpg
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day01/day01pm.zip
+game.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day01/game.zip
+websocket.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day01/websocket.zip
+wechat_devtools_1.02.1907160_x64.exe
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day01/wechat_devtools_1.02.1907160_x64.exe
+wx_01.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day01/wx_01.zip
+avi02.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day02/avi02.zip
+cart.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day02/cart.png
+cart_active.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day02/cart_active.png
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day02/day02pm.zip
+home.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day02/home.png
+home_active.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day02/home_active.png
+miniprogram.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day02/miniprogram.zip
+2019-08-16_141640.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day03/2019-08-16_141640.jpg
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/WEIXIN/day03/day03am.zip
+EditPlus 3.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/01_SERVER/day01/EditPlus%203.zip
+MySQL 5.1鍙傝�冩墜鍐�.chm
+	http://code.tarena.com.cn/WEBCode/wfd1905/01_SERVER/day01/MySQL%205.1%e5%8f%82%e8%80%83%e6%89%8b%e5%86%8c.chm
+WebServer.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/01_SERVER/day01/WebServer.zip
+day01_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/01_SERVER/day01/day01_all.zip
+day02_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/01_SERVER/day02/day02_all.zip
+day03_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/01_SERVER/day03/day03_all.zip
+day03_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/01_SERVER/day03/day03_am.zip
+day04AM.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/01_SERVER/day04/day04AM.zip
+day04_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/01_SERVER/day04/day04_all.zip
+xz.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/01_SERVER/day04/xz.zip
+data.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day01/data.zip
+day01_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day01/day01_all.zip
+day01_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day01/day01_am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day01/day01pm.zip
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day02/day02pm.zip
+day03_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day03/day03_all.zip
+day03_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day03/day03_am.zip
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day04/day04pm.zip
+day05_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day05/day05_all.zip
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day05/day05am.zip
+鍑芥暟宓屽.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day05/%e5%87%bd%e6%95%b0%e5%b5%8c%e5%a5%97.png
+day06_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day06/day06_all.zip
+day06_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day06/day06_am.zip
+鎬濈淮瀵煎浘.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day06/%e6%80%9d%e7%bb%b4%e5%af%bc%e5%9b%be.zip
+day07_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day07/day07_all.zip
+day07_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day07/day07_am.zip
+for-2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day07/for-2.wmv
+for-3.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day07/for-3.wmv
+閬嶅巻妗堜緥1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day07/%e9%81%8d%e5%8e%86%e6%a1%88%e4%be%8b1.wmv
+day08_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day08/day08_all.zip
+day08_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day08/day08_am.zip
+day09_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day09/day09_all.zip
+day09_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day09/day09_am.zip
+homework.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/day09/homework.wmv
+day06.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/%e9%a2%84%e4%b9%a0%e8%b5%84%e6%96%99/day06.zip
+day08pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/%e9%a2%84%e4%b9%a0%e8%b5%84%e6%96%99/day08pm.zip
+day15_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/Boot/day01/day15_all.zip
+day15_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/Boot/day01/day15_am.zip
+day16_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/Boot/day02/day16_all.zip
+day16_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/Boot/day02/day16_am.zip
+day17_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/Boot/day03/day17_all.zip
+day17_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/Boot/day03/day17_am.zip
+WEB_闈㈣瘯棰榑绗竴闃舵.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/CSS/day08/WEB_%e9%9d%a2%e8%af%95%e9%a2%98_%e7%ac%ac%e4%b8%80%e9%98%b6%e6%ae%b5.docx
+day08_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/CSS/day08/day08_all.zip
+day08_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/CSS/day08/day08_am.zip
+娉ㄥ唽浣滀笟浠ｇ爜.rar
+	http://code.tarena.com.cn/WEBCode/wfd1905/CSS/day08/%e6%b3%a8%e5%86%8c%e4%bd%9c%e4%b8%9a%e4%bb%a3%e7%a0%81.rar
+day10_alll.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/CSS/day10/day10_alll.zip
+day10_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/CSS/day10/day10_am.zip
+day11_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/CSS/day11/day11_all.zip
+day11_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/CSS/day11/day11_am.zip
+day12_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/CSS/day12/day12_all.zip
+day13_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/CSS/day13/day13_all.zip
+day13_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/CSS/day13/day13_am.zip
+animate.css
+	http://code.tarena.com.cn/WEBCode/wfd1905/CSS/day14/animate.css
+day14_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/CSS/day14/day14_all.zip
+day14_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/CSS/day14/day14_am.zip
+s1.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1905/CSS/day14/s1.jpg
+day09_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/CSS/day9/day09_am.zip
+day09pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/CSS/day9/day09pm.zip
+day01 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day01/day01%20am.zip
+day01 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day01/day01%20pm.zip
+day02 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day02/day02%20am.zip
+day02 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day02/day02%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day02/questions.docx
+day03 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day03/day03%20am.zip
+day03 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day03/day03%20pm.zip
+homework.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day03/homework.zip
+questions1.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day03/questions1.docx
+questions2.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day03/questions2.docx
+render.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day03/render.png
+day04 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/day04%20am.zip
+day04 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/day04%20pm.zip
+homework.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/homework.docx
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/questions.docx
+day05 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day05/day05%20am.zip
+xz.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day05/xz.zip
+day01.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/HTML/day01/day01.zip
+day01_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/HTML/day01/day01_am.zip
+day02_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/HTML/day02/day02_all.zip
+day02_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/HTML/day02/day02_am.zip
+day03.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/HTML/day03/day03.docx
+day03_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/HTML/day03/day03_all.zip
+day03_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/HTML/day03/day03_am.zip
+day04_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/HTML/day04/day04_all.zip
+day04_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/HTML/day04/day04_am.zip
+day04_url.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1905/HTML/day04/day04_url.mp4
+day05_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/HTML/day05/day05_all.zip
+day05_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/HTML/day05/day05_am.zip
+day07_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/HTML/day07/day07_all.zip
+day07_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/HTML/day07/day07_am.zip
+day06_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/HTML/day6/day06_all.zip
+day06_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/HTML/day6/day06_am.zip
+1_indexOf.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day01/1_indexOf.png
+2_search.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day01/2_search.png
+day01 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day01/day01%20am.zip
+english.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day01/english.docx
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day01/questions.docx
+day02 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day02/day02%20am.zip
+day02 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day02/day02%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day02/questions.docx
+day03 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day03/day03%20am.zip
+day03 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day03/day03%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day03/questions.docx
+day04 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day04/day04%20am.zip
+day04 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day04/day04%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day04/questions.docx
+day05 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day05/day05%20am.zip
+day05 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day05/day05%20pm.zip
+questions (1).docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day05/questions%20%281%29.docx
+day06 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day06/day06%20am.zip
+day06 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day06/day06%20pm.zip
+english.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day06/english.docx
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day06/questions.docx
+day07 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day07/day07%20am.zip
+day07 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day07/day07%20pm.zip
+english.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day07/english.docx
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day07/questions.docx
+day08 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day08/day08%20am.zip
+day08 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day08/day08%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day08/questions.docx
+day01_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day01/day01_all.zip
+day01_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day01/day01_am.zip
+day02_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day02/day02_all.zip
+day02_pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day02/day02_pm.zip
+day03_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day03/day03_all.zip
+day03_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day03/day03_am.zip
+Video1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day04/Video1.wmv
+Video2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day04/Video2.wmv
+Video3.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day04/Video3.wmv
+day04_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day04/day04_all.zip
+day04_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day04/day04_am.zip
+node_modules.rar
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day04/node_modules.rar
+day05_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day05/day05_all.zip
+day05_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day05/day05_am.zip
+1.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day06/1.png
+Video_1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day06/Video_1.wmv
+day06_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day06/day06_all.zip
+day06_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day06/day06_am.zip
+delete.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day06/delete.png
+detail.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day06/detail.png
+homework.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day06/homework.zip
+list1.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day06/list1.png
+list2.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day06/list2.png
+login.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day06/login.png
+pool.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day06/pool.png
+reg.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day06/reg.png
+update.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day06/update.png
+xz.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/NODEJS/day06/xz.zip
+day18_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/SCSS/day01/day18_all.zip
+day18_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/SCSS/day01/day18_am.zip
+浠ｇ爜鍔犵瑪璁�.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/SCSS/day01/%e4%bb%a3%e7%a0%81%e5%8a%a0%e7%ac%94%e8%ae%b0.zip
+day01-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/UI/day01/day01-all.zip
+day01-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/UI/day01/day01-am.zip
+day19_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/XIANGMU/day01/day19_all.zip
+day19_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/XIANGMU/day01/day19_am.zip
+day20_all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/XIANGMU/day02/day20_all.zip
+day20_am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/XIANGMU/day02/day20_am.zip
+day01 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/jQuery/day01/day01%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/jQuery/day01/questions.docx
+day02 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/jQuery/day02/day02%20am.zip
+day02 pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/jQuery/day02/day02%20pm.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/jQuery/day02/questions.docx
+day03 am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/jQuery/day03/day03%20am.zip
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/jQuery/day03/questions.docx
+questions.docx
+	http://code.tarena.com.cn/WEBCode/wfd1905/jQuery/day04/questions.docx
+day01-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/01_SERVER/day01/day01-all.zip
+day02-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/01_SERVER/day02/day02-all.zip
+day02-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/01_SERVER/day02/day02-am.zip
+03_tedu.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/01_SERVER/day03/03_tedu.zip
+day03-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/01_SERVER/day03/day03-all.zip
+day03-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/01_SERVER/day03/day03-am.zip
+xz.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/01_SERVER/day03/xz.zip
+day04-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/01_SERVER/day04/day04-all.zip
+day04-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/01_SERVER/day04/day04-am.zip
+xz.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/01_SERVER/day04/xz.zip
+day01-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day01/day01-all.zip
+day01-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day01/day01-am.zip
+day02-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day02/day02-all.zip
+day02-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day02/day02-am.zip
+day03-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day03/day03-all.zip
+day03-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day03/day03-am.zip
+Video1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day04/Video1.wmv
+day04-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day04/day04-all.zip
+day04-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day04/day04-am.zip
+day05-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day05/day05-all.zip
+day05-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day05/day05-am.zip
+day06-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day06/day06-all.zip
+day06-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day06/day06-am.zip
+day07-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day07/day07-all.zip
+day07-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day07/day07-am.zip
+day08-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day08/day08-all.zip
+day08-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day08/day08-am.zip
+day09-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day09/day09-all.zip
+day09-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/02_JS/day09/day09-am.zip
+1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day01/1.wmv
+day01-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day01/day01-all.zip
+day01-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day01/day01-am.zip
+鎬濈淮瀵煎浘.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day01/%e6%80%9d%e7%bb%b4%e5%af%bc%e5%9b%be.zip
+day02-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day02/day02-all.zip
+day02-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day02/day02-am.zip
+day03-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day03/day03-all.zip
+day03-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day03/day03-am.zip
+day04-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day04/day04-all.zip
+day04-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day04/day04-am.zip
+node_modules.rar
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day04/node_modules.rar
+day05-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day05/day05-all.zip
+day05-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day05/day05-am.zip
+1.png
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day06/1.png
+day06-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day06/day06-all.zip
+day06-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day06/day06-am.zip
+login.png
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day06/login.png
+pool.png
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day06/pool.png
+user_detail.png
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day06/user_detail.png
+user_update.png
+	http://code.tarena.com.cn/WEBCode/wfd1906/03_NODEJS/day06/user_update.png
+day01-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/04_GIT/day01/day01-all.zip
+day01-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/04_GIT/day01/day01-am.zip
+day01-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/05_html/day01/day01-all.zip
+day01-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/05_html/day01/day01-am.zip
+day01avi.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/05_html/day01/day01avi.zip
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/05_html/day02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/05_html/day02/day02pm.zip
+02_exam.png
+	http://code.tarena.com.cn/WEBCode/wfd1906/05_html/day03/02_exam.png
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/05_html/day03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/05_html/day03/day03pm.zip
+day03zy.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/05_html/day03/day03zy.zip
+avi04all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/05_html/day04/avi04all.zip
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/05_html/day04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/05_html/day04/day04pm.zip
+00_home.png
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day05/00_home.png
+avi05.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day05/avi05.zip
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day05/day05am.zip
+day05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day05/day05pm.zip
+avi06all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day06/avi06all.zip
+day06am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day06/day06am.zip
+day06pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day06/day06pm.zip
+day07am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day07/day07am.zip
+day07pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day07/day07pm.zip
+1906.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day08/1906.zip
+ajax-avi.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day08/ajax-avi.zip
+day08am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day08/day08am.zip
+day08pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day08/day08pm.zip
+day09am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day09/day09am.zip
+day09pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day09/day09pm.zip
+day10am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day10/day10am.zip
+day10pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day10/day10pm.zip
+day11-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day11/day11-all.zip
+day11-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day11/day11-am.zip
+day12-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day12/day12-all.zip
+day12-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day12/day12-am.zip
+day13-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day13/day13-all.zip
+day13-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day13/day13-am.zip
+animate.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day14/animate.zip
+day14-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day14/day14-all.zip
+day14-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day14/day14-am.zip
+day15-all.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day15/day15-all.zip
+day15-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day15/day15-am.zip
+38_鏍呮牸2.7z
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day16/38_%e6%a0%85%e6%a0%bc2.7z
+day16-am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1906/06_ajax/day16/day16-am.zip
+day01.docx
+	http://code.tarena.com.cn/WEBCode/wfd1907/01_SERVER/DAY01/day01.docx
+day01.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/01_SERVER/DAY01/day01.zip
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/02_MYSQL/DAY01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/02_MYSQL/DAY01/day01pm.zip
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/02_MYSQL/DAY02/day02am.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/02_MYSQL/DAY02/day02pm.zip
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/02_MYSQL/DAY03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/02_MYSQL/DAY03/day03pm.zip
+day01am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day01/day01am.zip
+day01pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day01/day01pm.zip
+MindManager_15.1.173_EN.exe
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day02/MindManager_15.1.173_EN.exe
+day02am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day02/day02am.zip
+day02am_2.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day02/day02am_2.zip
+day02pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day02/day02pm.zip
+day03am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day03/day03am.zip
+day03pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day03/day03pm.zip
+day04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day04/day04am.zip
+day04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day04/day04pm.zip
+day05am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day05/day05am.zip
+day05pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day05/day05pm.zip
+day06am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day06/day06am.zip
+day06pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day06/day06pm.zip
+鎬濈淮瀵煎浘.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day06/%e6%80%9d%e7%bb%b4%e5%af%bc%e5%9b%be.zip
+day07am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day07/day07am.zip
+day07pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day07/day07pm.zip
+day08am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day08/day08am.zip
+day08pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day08/day08pm.zip
+day09am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1907/03_JS/day09/day09am.zip
+calc.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/10-DOM/day05/homework/calc.png
+jsonp1.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day04/jsonp/jsonp1.png
+jsonp1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day04/jsonp/jsonp1.wmv
+jsonp1_client_code.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day04/jsonp/jsonp1_client_code.png
+jsonp1_code.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day04/jsonp/jsonp1_code.png
+jsonp2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day04/jsonp/jsonp2.wmv
+jsonp3.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day04/jsonp/jsonp3.wmv
+jsonp4.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day04/jsonp/jsonp4.wmv
+jsonp5.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day04/jsonp/jsonp5.wmv
+14_accordion.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day04/video/14_accordion.wmv
+ajax_header.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day04/video/ajax_header.wmv
+cors1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day04/video/cors1.wmv
+cors2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/12-JQUERY/day04/video/cors2.wmv
+1_first.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day01/video/1_first.wmv
+VUE.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day01/video/VUE.wmv
+3_v-if.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day02/video/3_v-if.wmv
+4_v-if.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day02/video/4_v-if.wmv
+6_v-for.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day02/video/6_v-for.wmv
+xz_index_vue.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day02/video/xz_index_vue.wmv
+2_radio.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day03/videos/2_radio.wmv
+6_computed.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day03/videos/6_computed.wmv
+axios_lifecycle_homework.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day03/videos/axios_lifecycle_homework.wmv
+SPA.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day04/videos/SPA.wmv
+components.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day04/videos/components.wmv
+props.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day04/videos/props.wmv
+vue create.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day04/videos/vue%20create.wmv
+xz_vue.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/14-VUE/day04/videos/xz_vue.wmv
+01_Exam01.vue.png
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/01_Exam01.vue.png
+01_mint-ui涓嬭浇浜岀鏂瑰紡.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/01_mint-ui%e4%b8%8b%e8%bd%bd%e4%ba%8c%e7%a7%8d%e6%96%b9%e5%bc%8f.wmv
+02_main.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/02_main.js.jpg
+02_鍚姩鑴氭墜鏋�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/02_%e5%90%af%e5%8a%a8%e8%84%9a%e6%89%8b%e6%9e%b6.wmv
+03_鑴氭墜鏋舵蹇�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/03_%e8%84%9a%e6%89%8b%e6%9e%b6%e6%a6%82%e5%bf%b5.wmv
+04_寮曞叆mint-ui缁勪欢搴�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/04_%e5%bc%95%e5%85%a5mint-ui%e7%bb%84%e4%bb%b6%e5%ba%93.wmv
+05_淇敼閰嶇疆鏂囦欢.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/05_%e4%bf%ae%e6%94%b9%e9%85%8d%e7%bd%ae%e6%96%87%e4%bb%b6.wmv
+06_鍦╩ain.js寮曞叆mint-ui.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/06_%e5%9c%a8main.js%e5%bc%95%e5%85%a5mint-ui.wmv
+07_绗竴涓粍浠禵toast.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/07_%e7%ac%ac%e4%b8%80%e4%b8%aa%e7%bb%84%e4%bb%b6_toast.wmv
+08_璁茶В鍒涘缓缁勪欢娴佺▼.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/08_%e8%ae%b2%e8%a7%a3%e5%88%9b%e5%bb%ba%e7%bb%84%e4%bb%b6%e6%b5%81%e7%a8%8b.wmv
+09_鍒涘缓绌虹粍浠�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/09_%e5%88%9b%e5%bb%ba%e7%a9%ba%e7%bb%84%e4%bb%b6.wmv
+10_涓虹粍浠堕厤缃矾寰�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/10_%e4%b8%ba%e7%bb%84%e4%bb%b6%e9%85%8d%e7%bd%ae%e8%b7%af%e5%be%84.wmv
+11_杩愯缁勪欢.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/11_%e8%bf%90%e8%a1%8c%e7%bb%84%e4%bb%b6.wmv
+12_鏄剧ず鐭秷鎭�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/12_%e6%98%be%e7%a4%ba%e7%9f%ad%e6%b6%88%e6%81%af.wmv
+13_鏄剧ず鐭秷鎭痏02.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/13_%e6%98%be%e7%a4%ba%e7%9f%ad%e6%b6%88%e6%81%af_02.wmv
+14_鏄剧ず鐭秷鎭坊鍔犳牱寮�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/14_%e6%98%be%e7%a4%ba%e7%9f%ad%e6%b6%88%e6%81%af%e6%b7%bb%e5%8a%a0%e6%a0%b7%e5%bc%8f.wmv
+15_鏄剧ず娑堟伅.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/15_%e6%98%be%e7%a4%ba%e6%b6%88%e6%81%af.wmv
+16_涓嬭浇鍥炬爣.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/16_%e4%b8%8b%e8%bd%bd%e5%9b%be%e6%a0%87.wmv
+17_閰嶇疆鑴氭墜鏋�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/17_%e9%85%8d%e7%bd%ae%e8%84%9a%e6%89%8b%e6%9e%b6.wmv
+18_娣诲姞鍥炬爣.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/18_%e6%b7%bb%e5%8a%a0%e5%9b%be%e6%a0%87.wmv
+19_纭妗�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/19_%e7%a1%ae%e8%ae%a4%e6%a1%86.wmv
+20_鍒涘缓鏂扮粍浠秂xam02.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/20_%e5%88%9b%e5%bb%ba%e6%96%b0%e7%bb%84%e4%bb%b6exam02.wmv
+21_纭妗�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/21_%e7%a1%ae%e8%ae%a4%e6%a1%86.wmv
+22_纭妗哶02.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/22_%e7%a1%ae%e8%ae%a4%e6%a1%86_02.wmv
+23_杈撳叆妗�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day01/avi/23_%e8%be%93%e5%85%a5%e6%a1%86.wmv
+01_缁冧範浠嬬粛.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day03/avi/01_%e7%bb%83%e4%b9%a0%e4%bb%8b%e7%bb%8d.wmv
+02_缁冧範鍒涘缓鐩綍.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day03/avi/02_%e7%bb%83%e4%b9%a0%e5%88%9b%e5%bb%ba%e7%9b%ae%e5%bd%95.wmv
+03_缁冧範鍒嗘瀽鍔熻兘.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day03/avi/03_%e7%bb%83%e4%b9%a0%e5%88%86%e6%9e%90%e5%8a%9f%e8%83%bd.wmv
+04_娣诲姞璧勬簮骞朵笖鍒涘缓home.vue.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day03/avi/04_%e6%b7%bb%e5%8a%a0%e8%b5%84%e6%ba%90%e5%b9%b6%e4%b8%94%e5%88%9b%e5%bb%bahome.vue.wmv
+05_鍒涘缓home.vue.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day03/avi/05_%e5%88%9b%e5%bb%bahome.vue.wmv
+01_session.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day05/avi/01_session.wmv
+02_鏈嶅姟鍣ㄧsession浣跨敤.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day05/avi/02_%e6%9c%8d%e5%8a%a1%e5%99%a8%e7%ab%afsession%e4%bd%bf%e7%94%a8.wmv
+03_鑴氭墜鏋秙ession閰嶇疆.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day05/avi/03_%e8%84%9a%e6%89%8b%e6%9e%b6session%e9%85%8d%e7%bd%ae.wmv
+01_澶嶄範鏄ㄥぉ閲嶇偣.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/avi/01_%e5%a4%8d%e4%b9%a0%e6%98%a8%e5%a4%a9%e9%87%8d%e7%82%b9.wmv
+02_鍒涘缓缁勪欢鏍囩.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/avi/02_%e5%88%9b%e5%bb%ba%e7%bb%84%e4%bb%b6%e6%a0%87%e7%ad%be.wmv
+03_娣诲姞鏍峰紡.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/avi/03_%e6%b7%bb%e5%8a%a0%e6%a0%b7%e5%bc%8f.wmv
+04_娣诲姞鏍峰紡.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/avi/04_%e6%b7%bb%e5%8a%a0%e6%a0%b7%e5%bc%8f.wmv
+05_鏍峰紡缁撴潫.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/avi/05_%e6%a0%b7%e5%bc%8f%e7%bb%93%e6%9d%9f.wmv
+06_鏄剧ず鍟嗗搧淇℃伅.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/avi/06_%e6%98%be%e7%a4%ba%e5%95%86%e5%93%81%e4%bf%a1%e6%81%af.wmv
+07_瑙ｆ瀽鍥剧墖涓嶆樉绀洪棶棰�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/avi/07_%e8%a7%a3%e6%9e%90%e5%9b%be%e7%89%87%e4%b8%8d%e6%98%be%e7%a4%ba%e9%97%ae%e9%a2%98.wmv
+08_瀹屾垚鍔犺浇鏇村.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/avi/08_%e5%ae%8c%e6%88%90%e5%8a%a0%e8%bd%bd%e6%9b%b4%e5%a4%9a.wmv
+09_鍟嗗搧鍒楄〃瀹屾垚.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/avi/09_%e5%95%86%e5%93%81%e5%88%97%e8%a1%a8%e5%ae%8c%e6%88%90.wmv
+10_鍒嗘瀽璐墿杞︾粍浠�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/avi/10_%e5%88%86%e6%9e%90%e8%b4%ad%e7%89%a9%e8%bd%a6%e7%bb%84%e4%bb%b6.wmv
+11_璁捐琛�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/avi/11_%e8%ae%be%e8%ae%a1%e8%a1%a8.wmv
+12_鍒涘缓琛�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/avi/12_%e5%88%9b%e5%bb%ba%e8%a1%a8.wmv
+13_瀹屾垚璐墿杞︽湇鍔″櫒绋嬪簭.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/avi/13_%e5%ae%8c%e6%88%90%e8%b4%ad%e7%89%a9%e8%bd%a6%e6%9c%8d%e5%8a%a1%e5%99%a8%e7%a8%8b%e5%ba%8f.wmv
+14_娴嬭瘯.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/avi/14_%e6%b5%8b%e8%af%95.wmv
+15_璐墿鍒嗘瀽.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/avi/15_%e8%b4%ad%e7%89%a9%e5%88%86%e6%9e%90.wmv
+16_璐墿杞﹀彂閫佽姹�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/avi/16_%e8%b4%ad%e7%89%a9%e8%bd%a6%e5%8f%91%e9%80%81%e8%af%b7%e6%b1%82.wmv
+17_鍒涘缓璐墿杞︾粍浠�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/avi/17_%e5%88%9b%e5%bb%ba%e8%b4%ad%e7%89%a9%e8%bd%a6%e7%bb%84%e4%bb%b6.wmv
+18_娣诲姞鏍峰紡.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/16_VUEUI/day06/avi/18_%e6%b7%bb%e5%8a%a0%e6%a0%b7%e5%bc%8f.wmv
+01_浣滀笟.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/avi/01_%e4%bd%9c%e4%b8%9a.wmv
+02_浣滀笟_娣诲姞鏍峰紡.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/avi/02_%e4%bd%9c%e4%b8%9a_%e6%b7%bb%e5%8a%a0%e6%a0%b7%e5%bc%8f.wmv
+03_浣滀笟_瀹屾垚绗竴涓姛鑳�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/avi/03_%e4%bd%9c%e4%b8%9a_%e5%ae%8c%e6%88%90%e7%ac%ac%e4%b8%80%e4%b8%aa%e5%8a%9f%e8%83%bd.wmv
+04_浣滀笟_瀹屾垚鍥剧墖鍒囨崲.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/avi/04_%e4%bd%9c%e4%b8%9a_%e5%ae%8c%e6%88%90%e5%9b%be%e7%89%87%e5%88%87%e6%8d%a2.wmv
+05_浣滀笟缁撴潫.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/avi/05_%e4%bd%9c%e4%b8%9a%e7%bb%93%e6%9d%9f.wmv
+06_瑙嗛鐗规畩浜嬩欢.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/avi/06_%e8%a7%86%e9%a2%91%e7%89%b9%e6%ae%8a%e4%ba%8b%e4%bb%b6.wmv
+06_瑙嗛鐗规畩浜嬩欢_end.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/avi/06_%e8%a7%86%e9%a2%91%e7%89%b9%e6%ae%8a%e4%ba%8b%e4%bb%b6_end.wmv
+07_瑙嗛鏍峰紡.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/avi/07_%e8%a7%86%e9%a2%91%e6%a0%b7%e5%bc%8f.wmv
+08_瑙嗛鏍峰紡.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/17_HTML5/day02/avi/08_%e8%a7%86%e9%a2%91%e6%a0%b7%e5%bc%8f.wmv
+01_澶嶄範.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day02/avi/01_%e5%a4%8d%e4%b9%a0.wmv
+02_灏忕▼搴廽s.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day02/avi/02_%e5%b0%8f%e7%a8%8b%e5%ba%8fjs.wmv
+03_灏忕▼搴廮寰幆.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day02/avi/03_%e5%b0%8f%e7%a8%8b%e5%ba%8f_%e5%be%aa%e7%8e%af.wmv
+04_灏忕▼搴忓垽鏂潯浠�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day02/avi/04_%e5%b0%8f%e7%a8%8b%e5%ba%8f%e5%88%a4%e6%96%ad%e6%9d%a1%e4%bb%b6.wmv
+05_浜嬩欢.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day02/avi/05_%e4%ba%8b%e4%bb%b6.wmv
+06_浜嬩欢缁戝畾.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day02/avi/06_%e4%ba%8b%e4%bb%b6%e7%bb%91%e5%ae%9a.wmv
+07_浜嬩欢缁戝畾.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day02/avi/07_%e4%ba%8b%e4%bb%b6%e7%bb%91%e5%ae%9a.wmv
+08_鐢熷懡鍛ㄦ湡.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day02/avi/08_%e7%94%9f%e5%91%bd%e5%91%a8%e6%9c%9f.wmv
+09_鐢熷懡鍛ㄦ湡.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day02/avi/09_%e7%94%9f%e5%91%bd%e5%91%a8%e6%9c%9f.wmv
+01_浣滀笟.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day03/avi/01_%e4%bd%9c%e4%b8%9a.wmv
+02_浣滀笟.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day03/avi/02_%e4%bd%9c%e4%b8%9a.wmv
+03_浣滀笟.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day03/avi/03_%e4%bd%9c%e4%b8%9a.wmv
+04_浣滀笟.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day03/avi/04_%e4%bd%9c%e4%b8%9a.wmv
+05_浜戞暟鎹簱鏌ヨ鏁版嵁.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day03/avi/05_%e4%ba%91%e6%95%b0%e6%8d%ae%e5%ba%93%e6%9f%a5%e8%af%a2%e6%95%b0%e6%8d%ae.wmv
+06_浜戞暟鎹簱鏌ヨ鎵�鏈夎褰�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day03/avi/06_%e4%ba%91%e6%95%b0%e6%8d%ae%e5%ba%93%e6%9f%a5%e8%af%a2%e6%89%80%e6%9c%89%e8%ae%b0%e5%bd%95.wmv
+07_浜戞暟鎹簱鏌ヨ鎸囧畾璁板綍.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day03/avi/07_%e4%ba%91%e6%95%b0%e6%8d%ae%e5%ba%93%e6%9f%a5%e8%af%a2%e6%8c%87%e5%ae%9a%e8%ae%b0%e5%bd%95.wmv
+08_缁煎悎缁冧範.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day03/avi/08_%e7%bb%bc%e5%90%88%e7%bb%83%e4%b9%a0.wmv
+09_缁煎悎绀轰緥01.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day03/avi/09_%e7%bb%bc%e5%90%88%e7%a4%ba%e4%be%8b01.wmv
+10_鑾峰彇杩斿洖鏁版嵁.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day03/avi/10_%e8%8e%b7%e5%8f%96%e8%bf%94%e5%9b%9e%e6%95%b0%e6%8d%ae.wmv
+11_灏嗚繑鍥炴暟鎹樉绀哄湪妯℃澘涓�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day03/avi/11_%e5%b0%86%e8%bf%94%e5%9b%9e%e6%95%b0%e6%8d%ae%e6%98%be%e7%a4%ba%e5%9c%a8%e6%a8%a1%e6%9d%bf%e4%b8%8a.wmv
+12_鍒犻櫎鏁版嵁.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day03/avi/12_%e5%88%a0%e9%99%a4%e6%95%b0%e6%8d%ae.wmv
+01_comment.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day06/avi/01_comment.jpg
+01_鐢靛奖璇勮.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day06/avi/01_%e7%94%b5%e5%bd%b1%e8%af%84%e8%ae%ba.wmv
+02_閫変腑鍥剧墖.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day06/avi/02_%e9%80%89%e4%b8%ad%e5%9b%be%e7%89%87.wmv
+03_閫変腑鍥剧墖.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day06/avi/03_%e9%80%89%e4%b8%ad%e5%9b%be%e7%89%87.wmv
+04_閫変腑鍥剧墖棰勮鏍峰紡.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day06/avi/04_%e9%80%89%e4%b8%ad%e5%9b%be%e7%89%87%e9%a2%84%e8%a7%88%e6%a0%b7%e5%bc%8f.wmv
+05_涓婁紶鍥剧墖.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day06/avi/05_%e4%b8%8a%e4%bc%a0%e5%9b%be%e7%89%87.wmv
+06_涓婁紶鍥剧墖.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1903/18_WEIXIN/day06/avi/06_%e4%b8%8a%e4%bc%a0%e5%9b%be%e7%89%87.wmv
+Eric.css
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day07/normalize/Eric.css
+IE榛樿鏍峰紡瀵规瘮.html
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day07/normalize/IE%e9%bb%98%e8%ae%a4%e6%a0%b7%e5%bc%8f%e5%af%b9%e6%af%94.html
+normalize_zh.css
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day07/normalize/normalize_zh.css
+pptv.css
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day07/normalize/pptv.css
+澶╃尗.css
+	http://code.tarena.com.cn/WEBCode/wfd1904/CSS/day07/normalize/%e5%a4%a9%e7%8c%ab.css
+2_iterator.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day02/videos/2_iterator.wmv
+1_menu.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day03/videos/1_menu.wmv
+1_menu_transition.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day03/videos/1_menu_transition.wmv
+2_chbAll.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day03/videos/2_chbAll.wmv
+3_data-.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day03/videos/3_data-.wmv
+4_vali.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day03/videos/4_vali.wmv
+7_select.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day03/videos/7_select.wmv
+deleteRow.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day04/videos/deleteRow.wmv
+5_calc.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05/homework/5_calc.png
+5_createTable.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05/homework/5_createTable.png
+close.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05/homework/close.png
+qs-code.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05/homework/qs-code.png
+qs.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05/homework/qs.png
+setTimeout.mov
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05/videos/setTimeout.mov
+1_jQuery.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day01/videos/1_jQuery.wmv
+13_form state selector.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day02/homework/13_form%20state%20selector.png
+table.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day02/homework/table.png
+event.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day02/videos/event.wmv
+component.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day03/videos/component.wmv
+2_header.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day04/videos/2_header.wmv
+cors.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JQUERY/day04/videos/cors.wmv
+vs code live server.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day01/videos/vs%20code%20live%20server.wmv
+10_exec.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day02/videos/10_exec.wmv
+4_replace2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day02/videos/4_replace2.wmv
+4_replace2_2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day02/videos/4_replace2_2.wmv
+2_hoist.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day03/videos/2_hoist.wmv
+2_hoist2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day03/videos/2_hoist2.wmv
+5_scope.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day03/videos/5_scope.wmv
+5_scopes.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day03/videos/5_scopes.wmv
+6_closure.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day03/videos/6_closure.wmv
+fun(n,o)_1.mov
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day04/bs_fun%28n%2co%29/fun%28n%2co%29_1.mov
+fun(n,o)_2_3.mov
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day04/bs_fun%28n%2co%29/fun%28n%2co%29_2_3.mov
+2_getNum.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day04/homework/2_getNum.png
+6_closure.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day04/homework/6_closure.png
+4_constructor.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day04/videos/4_constructor.wmv
+5_prototype.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day04/videos/5_prototype.wmv
+clone.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day04/videos/clone.wmv
+object_this.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day04/videos/object_this.wmv
+1_funs.html
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day05/homework/1_funs.html
+1_funs.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day05/homework/1_funs.png
+1_funs2.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day05/homework/1_funs2.png
+10_fib.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day05/videos/10_fib.wmv
+1_funs.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day05/videos/1_funs.wmv
+4_override.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day05/videos/4_override.wmv
+Array.prototype.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day05/videos/Array.prototype.wmv
+10_every.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day06/videos/10_every.wmv
+call.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day06/videos/call.wmv
+every.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day06/videos/every.wmv
+get_set.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day06/videos/get_set.wmv
+1_every2_this.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day07/videos/1_every2_this.wmv
+2_forEach_byValue.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day07/videos/2_forEach_byValue.wmv
+6_reduce.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day07/videos/6_reduce.wmv
+7_reduce.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day07/videos/7_reduce.wmv
+8_arrow.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day07/videos/8_arrow.wmv
+10_extends.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day08/videos/10_extends.wmv
+11_callback.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day08/videos/11_callback.wmv
+1_promise.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day09/videos/1_promise.wmv
+2_promise_status.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day09/videos/2_promise_status.wmv
+3_promise_bang.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day09/videos/3_promise_bang.wmv
+4_promise_all_es7.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day09/videos/4_promise_all_es7.wmv
+1_first.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01/videos/1_first.wmv
+2_MVVM.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01/videos/2_MVVM.wmv
+3_code-snip.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01/videos/3_code-snip.wmv
+1_first.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01QQ/old%20videos/1_first.wmv
+MVVM.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01QQ/old%20videos/MVVM.wmv
+VUE.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01QQ/old%20videos/VUE.wmv
+ViewModel.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01QQ/old%20videos/ViewModel.wmv
+first2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01QQ/old%20videos/first2.wmv
+others.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01QQ/old%20videos/others.wmv
+v-bind.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01QQ/old%20videos/v-bind.wmv
+v-else-if.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01QQ/old%20videos/v-else-if.wmv
+v-for(1).wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01QQ/old%20videos/v-for%281%29.wmv
+v-for.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01QQ/old%20videos/v-for.wmv
+v-if(1).wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01QQ/old%20videos/v-if%281%29.wmv
+v-if.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01QQ/old%20videos/v-if.wmv
+v-show.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01QQ/old%20videos/v-show.wmv
+vue鐨勫壇鏈�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01QQ/old%20videos/vue%e7%9a%84%e5%89%af%e6%9c%ac.wmv
+xz_index_vue.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day01QQ/old%20videos/xz_index_vue.wmv
+2_radio.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02QQ/videos/2_radio.wmv
+2_radio2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02QQ/videos/2_radio2.wmv
+2_radio_planes.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02QQ/videos/2_radio_planes.wmv
+3_select.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02QQ/videos/3_select.wmv
+3_v-if.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02QQ/videos/3_v-if.wmv
+4_checkbox.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02QQ/videos/4_checkbox.wmv
+4_v-if.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02QQ/videos/4_v-if.wmv
+5_style.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02QQ/videos/5_style.wmv
+6_class.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02QQ/videos/6_class.wmv
+6_class2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02QQ/videos/6_class2.wmv
+6_v-for.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02QQ/videos/6_v-for.wmv
+7_computed.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02QQ/videos/7_computed.wmv
+8_directive.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02QQ/videos/8_directive.wmv
+9_filter.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02QQ/videos/9_filter.wmv
+axios.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02QQ/videos/axios.wmv
+v-model_onchange.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02QQ/videos/v-model_onchange.wmv
+watch&planes.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02QQ/videos/watch%26planes.wmv
+xz_index_vue.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day02QQ/videos/xz_index_vue.wmv
+2_components.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03/videos/2_components.wmv
+2_components_parent2child.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03/videos/2_components_parent2child.wmv
+SPA.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03/videos/SPA.wmv
+live_cycle.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03/videos/live_cycle.wmv
+xz_details1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03/videos/xz_details1.wmv
+2_component.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/2_component.wmv
+2_radio.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/2_radio.wmv
+2_todo_components.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/2_todo_components.wmv
+3_components.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/3_components.wmv
+3_components_add.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/3_components_add.wmv
+3_components_delete.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/3_components_delete.wmv
+3_parent2Child.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/3_parent2Child.wmv
+3_parent2Child_todoItem.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/3_parent2Child_todoItem.wmv
+3_todo_data.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/3_todo_data.wmv
+3_todo_data2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/3_todo_data2.wmv
+4_SPA.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/4_SPA.wmv
+6_computed.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/6_computed.wmv
+SPA.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/SPA.wmv
+axios_lifecycle_homework.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/axios_lifecycle_homework.wmv
+component.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/component.wmv
+components.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/components.wmv
+component鐨勫壇鏈�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/component%e7%9a%84%e5%89%af%e6%9c%ac.wmv
+cors_axios.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/cors_axios.wmv
+props down.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/props%20down.wmv
+props.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/props.wmv
+todo.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/todo.wmv
+todo1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/todo1.wmv
+vue-router.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/vue-router.wmv
+vue_livecycle.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/vue_livecycle.wmv
+xz_index_vue.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/xz_index_vue.wmv
+宓屽璺敱.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day03QQ/videos/%e5%b5%8c%e5%a5%97%e8%b7%af%e7%94%b1.wmv
+vue_create_xz_vue.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day04/videos/vue_create_xz_vue.wmv
+xz_myheader_products.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day04/videos/xz_myheader_products.wmv
+xzvue_details2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day04/videos/xzvue_details2.wmv
+xzvue_details3.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day04/videos/xzvue_details3.wmv
+xzvue_details4.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day04/videos/xzvue_details4.wmv
+xzvue_details5.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day04/videos/xzvue_details5.wmv
+xzvue_folders.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day04/videos/xzvue_folders.wmv
+xzvue_index_details.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day04/videos/xzvue_index_details.wmv
+xzvue_products.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE/day04/videos/xzvue_products.wmv
+01_main.js.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day01/cut/01_main.js.png
+02_router.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day01/cut/02_router.png
+03_exam.vue.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day01/cut/03_exam.vue.png
+04_exam.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day01/cut/04_exam.png
+05_exam01.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day01/cut/05_exam01.png
+06_exam02.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day01/cut/06_exam02.png
+07_router.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day01/cut/07_router.png
+08_exam02.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day01/cut/08_exam02.png
+09_exam02.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day01/cut/09_exam02.png
+01.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/cut/01.zip
+02.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/cut/02.png
+03.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/cut/03.png
+04.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/cut/04.png
+05.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/cut/05.png
+06.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/cut/06.png
+07.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/cut/07.png
+08.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/cut/08.png
+09.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/cut/09.png
+11_exam.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/cut/11_exam.jpg
+12.png
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/cut/12.png
+13_tabbar.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/cut/13_tabbar.jpg
+14_鐖剁粍浠�.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/cut/14_%e7%88%b6%e7%bb%84%e4%bb%b6.jpg
+15_瀛愮粍浠�.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/cut/15_%e5%ad%90%e7%bb%84%e4%bb%b6.jpg
+16_router.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/cut/16_router.js.jpg
+all.docx
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/cut/all.docx
+vue_app_00.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day02/cut/vue_app_00.zip
+01_寰俊tabbar.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/avi/01_%e5%be%ae%e4%bf%a1tabbar.wmv
+02_寰俊tabbar.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/avi/02_%e5%be%ae%e4%bf%a1tabbar.wmv
+03_寰俊tabbar.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/avi/03_%e5%be%ae%e4%bf%a1tabbar.wmv
+04_鍒涘缓鏈嶅姟鍣ㄧ绋嬪簭.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/avi/04_%e5%88%9b%e5%bb%ba%e6%9c%8d%e5%8a%a1%e5%99%a8%e7%ab%af%e7%a8%8b%e5%ba%8f.wmv
+05_閰嶇疆璺ㄥ煙璁块棶.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/avi/05_%e9%85%8d%e7%bd%ae%e8%b7%a8%e5%9f%9f%e8%ae%bf%e9%97%ae.wmv
+06_axios閰嶇疆.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/avi/06_axios%e9%85%8d%e7%bd%ae.wmv
+07_axios閰嶇疆.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/avi/07_axios%e9%85%8d%e7%bd%ae.wmv
+08_axios鍙戦�佽姹�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/avi/08_axios%e5%8f%91%e9%80%81%e8%af%b7%e6%b1%82.wmv
+09_axios鍙戦�佽姹�.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/avi/09_axios%e5%8f%91%e9%80%81%e8%af%b7%e6%b1%82.wmv
+10_浣滀笟.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/avi/10_%e4%bd%9c%e4%b8%9a.wmv
+01_home.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/cut/01_home.jpg
+01_src.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/cut/01_src.zip
+03_Login.vue.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/cut/03_Login.vue.jpg
+04_main.js.jpg
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/cut/04_main.js.jpg
+Vue UI 缁勪欢搴�.mmap
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/cut/Vue%20UI%20%e7%bb%84%e4%bb%b6%e5%ba%93.mmap
+app.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/cut/app.zip
+assets.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/cut/assets.zip
+avi04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/cut/avi04am.zip
+cut04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/cut/cut04am.zip
+cut04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/cut/cut04pm.zip
+db.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/cut/db.zip
+n.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/cut/n.zip
+node_modules.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/cut/node_modules.zip
+src04am.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/cut/src04am.zip
+src04pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/cut/src04pm.zip
+vue_app_00.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/cut/vue_app_00.zip
+vue_server_00.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/cut/vue_server_00.zip
+vue_server_00pm.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/VUE_UI/day04/cut/vue_server_00pm.zip
+棰勪範.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/02_JS_BASIC/%e9%a2%84%e4%b9%a0%e8%b5%84%e6%96%99/day04/%e9%a2%84%e4%b9%a0.zip
+1_a_b.html
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day01/homework/1_a_b.html
+4_extends.html
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day01/homework/4_extends.html
+2_iterator.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day01/videos/2_iterator.wmv
+3_shoppingCart3.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day01/videos/3_shoppingCart3.wmv
+5_vali.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day02/videos/5_vali.wmv
+data-.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day02/videos/data-.wmv
+2_select.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day03/videos/2_select.wmv
+1_timer.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/homework/1_timer.png
+ajax.js
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/homework/ajax.js
+index.0.html
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/homework/index.0.html
+index.1.html
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/homework/index.1.html
+index.2.html
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/homework/index.2.html
+server.js
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/homework/server.js
+11_navigator.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/videos/11_navigator.wmv
+3_calc_delegate.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/videos/3_calc_delegate.wmv
+foo(x,y=function).mp4
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/videos/foo%28x%2cy%3dfunction%29.mp4
+fun(n,o)_1.mov
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/videos/fun%28n%2co%29_1.mov
+1_search2Obj.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day05/videos/1_search2Obj.wmv
+onscroll.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day05/videos/onscroll.mp4
+1_run project steps.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day05/xz/1_run%20project%20steps.png
+2_index_products.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day05/xz/2_index_products.png
+xz with imgs.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day05/xz/xz%20with%20imgs.zip
+xz without imgs.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day05/xz/xz%20without%20imgs.zip
+1_index_2_search.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day01/videos/1_index_2_search.wmv
+c(2).mov
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day02/day02bs/c%282%29.mov
+c(2).png
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day02/day02bs/c%282%29.png
+5_replace2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day02/videos/5_replace2.wmv
+6_delete.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day03/homework/6_delete.png
+3_hoist.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day03/videos/3_hoist.wmv
+3_hoist2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day03/videos/3_hoist2.wmv
+6_scope.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day03/videos/6_scope.wmv
+7_closure.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day03/videos/7_closure.wmv
+1_overload.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day04/homework/1_overload.png
+2_getNum.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day04/homework/2_getNum.png
+3_getN-code.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day04/homework/3_getN-code.png
+3_getN-word.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day04/homework/3_getN-word.png
+3_getN.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day04/homework/3_getN.png
+1_obj_this.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day04/videos/1_obj_this.wmv
+2_clone.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day04/videos/2_clone.wmv
+3_constructor.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day04/videos/3_constructor.wmv
+1_funs.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day05/homework/1_funs.png
+8_data property.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day05/videos/8_data%20property.wmv
+13_reduce.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day06/videos/13_reduce.wmv
+8_every.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day06/videos/8_every.wmv
+8_every2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day06/videos/8_every2.wmv
+9_forEach.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day06/videos/9_forEach.wmv
+13_reduce.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day07/homework/13_reduce.png
+1_map-pic.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day07/homework/1_map-pic.png
+1_map.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day07/homework/1_map.png
+11_destruct3.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day07/videos/11_destruct3.wmv
+3_arrow.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day07/videos/3_arrow.wmv
+4_extends.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day08/videos/4_extends.wmv
+5_callback.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day08/videos/5_callback.wmv
+6_promise.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day08/videos/6_promise.wmv
+1_jQuery.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/jQuery/day01/videos/1_jQuery.wmv
+5_class2_1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/jQuery/day02/videos/5_class2_1.wmv
+5_class2_2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/jQuery/day02/videos/5_class2_2.wmv
+17_trigger.png
+	http://code.tarena.com.cn/WEBCode/wfd1905/jQuery/day03/day02%20event/17_trigger.png
+btns.mov
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day02/videos/donggebs/btns.mov
+obj.fn1.mov
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day02/videos/donggebs/obj.fn1.mov
+1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05/videos/carousel/1.wmv
+2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05/videos/carousel/2.wmv
+3.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05/videos/carousel/3.wmv
+4.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05/videos/carousel/4.wmv
+5.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05/videos/carousel/5.wmv
+6.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05/videos/carousel/6.wmv
+7.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05/videos/carousel/7.wmv
+Video_2019-05-27_174354.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05/videos/carousel/Video_2019-05-27_174354.wmv
+carousel.zip
+	http://code.tarena.com.cn/WEBCode/wfd1904/DOM/day05/videos/carousel/carousel.zip
+Foo.a.mov
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day08/videos/donggebs/Foo.a.mov
+getName.mov
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day08/videos/donggebs/getName.mov
+number.mov
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day08/videos/donggebs/number.mov
+p.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day08/videos/donggebs/p.wmv
+array_i_j.mov
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day09/videos/donggebs/array_i_j.mov
+foo.x.mp4
+	http://code.tarena.com.cn/WEBCode/wfd1904/JSCORE/day09/videos/donggebs/foo.x.mp4
+btns.mov
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day01/videos/bs/btns.mov
+getElements vs querySelectorAll.mov
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day02/videos/bs/getElements%20vs%20querySelectorAll.mov
+event loop in browser.mov
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day03/videos/bs/event%20loop%20in%20browser.mov
+event loop in node js.mov
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day03/videos/bs/event%20loop%20in%20node%20js.mov
+fun(n,o)_1.mov
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day03/videos/bs/fun%28n%2co%29_1.mov
+fun(n,o)_2_3.mov
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day03/videos/bs/fun%28n%2co%29_2_3.mov
+ajax.js
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/videos/ajax_promise_type%3dabc/ajax.js
+ajax_promise_type=abc.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/videos/ajax_promise_type%3dabc/ajax_promise_type%3dabc.wmv
+index.0.html
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/videos/ajax_promise_type%3dabc/index.0.html
+index.1.html
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/videos/ajax_promise_type%3dabc/index.1.html
+index.2.html
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/videos/ajax_promise_type%3dabc/index.2.html
+server.js
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day04/videos/ajax_promise_type%3dabc/server.js
+1.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day05/videos/carousel/1.wmv
+2.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day05/videos/carousel/2.wmv
+3.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day05/videos/carousel/3.wmv
+4.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day05/videos/carousel/4.wmv
+5.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day05/videos/carousel/5.wmv
+6.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day05/videos/carousel/6.wmv
+7.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day05/videos/carousel/7.wmv
+Video_2019-05-27_174354.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day05/videos/carousel/Video_2019-05-27_174354.wmv
+carousel.zip
+	http://code.tarena.com.cn/WEBCode/wfd1905/DOM/day05/videos/carousel/carousel.zip
+1_funs.wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day05/videos/homework/1_funs.wmv
+2_change(o).wmv
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day05/videos/homework/2_change%28o%29.wmv
+Animal_People.mov
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day06/videos/bs/Animal_People.mov
+a.x.mov
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day06/videos/bs/a.x.mov
+x in window.mov
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day06/videos/bs/x%20in%20window.mov
+let_setTimeout.mov
+	http://code.tarena.com.cn/WEBCode/wfd1905/JSCORE/day07/videos/bs/let_setTimeout.mov
+文件总数：3630份

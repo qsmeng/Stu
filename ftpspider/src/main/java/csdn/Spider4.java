@@ -1,4 +1,4 @@
-package spider;
+package csdn;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -26,13 +26,8 @@ import okhttp3.Response;
  *
  */
 public class Spider4 {
-	public static enum types {
-		ACCCode, AIDCode, BIGCode, CGBCode, CSDCode, ESDCode, HRMCode, JSDCode, NSDCode, NTDCode, PSDCode, TSDCode,
-		U3DCode, VRDCode, WEBCode
-	}
-
-	public static String type = types.WEBCode.toString();
-	public static String indexurl = "http://code.tarena.com.cn/" + type + "/"; //
+	public static String type = "java";
+	public static String indexurl = "https://www.csdn.net/nav/" + type + ""; //
 	public static int 爬取计数 = -1,链接总数 = 0;
 	public static Document doc = null;
 	/**
@@ -104,10 +99,8 @@ public class Spider4 {
 
 	public static String getOkHttpClient(String path) {
 		// 创建连接客户端
-		Request request = new Request.Builder().url(path).header("Authorization", "Basic dGFyZW5hY29kZTpjb2RlXzIwMTk=")
-				.header("charset", "utf-8")
-				.header("User-Agent",
-						"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36")
+		Request request = new Request.Builder().url(path).header("charset", "utf-8").header("User-Agent",
+				"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36")
 				.build();
 		// 创建"调用" 对象
 		Call call = okHttpClient.newCall(request);
