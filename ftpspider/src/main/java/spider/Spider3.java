@@ -73,14 +73,15 @@ public class Spider3 {
 					if (href.contains(".")) {
 						// 写入文件中，文件名+文件链接
 						String filename = element.text();
-						if (java.nio.charset.Charset.forName("GBK").newEncoder().canEncode(filename)) {
+						if (java.nio.charset.Charset.forName("UTF-8").newEncoder().canEncode(filename)) {
 							try {
-								System.out.println(new String(filename.getBytes("ISO-8859-1"), "UTF-8"));
+								filename=new String(filename.getBytes("GBK"), "UTF-8");
+								System.out.println(filename);
 								writeTxtFile(docLinkFile, filename + "\r\n\t" + fullurl + "\r\n");
 							} catch (UnsupportedEncodingException e) {
 							}
 						} else {
-							writeTxtFile(docLinkFile, element.text() + "\r\n\t" + fullurl + "\r\n");
+							writeTxtFile(docLinkFile, filename+ "\r\n\t" + fullurl + "\r\n");
 						}
 					} else {
 						// 将链接写入文件
