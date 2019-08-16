@@ -14,8 +14,6 @@ import okhttp3.Response;
 
 public class HttpUtil {
 	private static OkHttpClient okHttpClient;
-	@SuppressWarnings("unused")
-	private static int num = 0;
 
 	static {
 		okHttpClient = new OkHttpClient.Builder().readTimeout(1, TimeUnit.SECONDS).connectTimeout(1, TimeUnit.SECONDS)
@@ -25,7 +23,8 @@ public class HttpUtil {
 	public static String get(String path) {
 		// 创建连接客户端
 		Request request = new Request.Builder().url(path).header("Authorization",
-				"Basic dGFyZW5hY29kZTpjb2RlXzIwMTk=").build();
+				"Basic dGFyZW5hY29kZTpjb2RlXzIwMTk=").header("charset",
+						"utf-8").header("User-Agent","Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36").build();
 		// 创建"调用" 对象
 		Call call = okHttpClient.newCall(request);
 		try {

@@ -7,22 +7,34 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.concurrent.TimeUnit;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import ftpspider.HttpUtil;
+import okhttp3.Call;
+import okhttp3.OkHttpClient;
+import okhttp3.Request;
+import okhttp3.Response;
+
 /**
- * 单层爬取
+ * 递归多层 排列一
+ * 
  * @author qsmeng
  *
  */
-public class Spider2 {
+public class Spider4 {
+	public static enum types {
+		ACCCode, AIDCode, BIGCode, CGBCode, CSDCode, ESDCode, HRMCode, JSDCode, NSDCode, NTDCode, PSDCode, TSDCode,
+		U3DCode, VRDCode, WEBCode
+	}
 
-	public static String indexurl = "http://code.tarena.com.cn/"; //
-	public static int num = -1,sum = 0;
+	public static String type = types.WEBCode.toString();
+	public static String indexurl = "http://code.tarena.com.cn/" + type + "/"; //
+	public static int 爬取计数 = -1,链接总数 = 0;
+	public static Document doc = null;
 	/**
 	 * 定义四个文件类（链接存储，图片储存，文件存储，错误链接存储）
 	 */
@@ -33,15 +45,14 @@ public class Spider2 {
 	 * @param path 目标地址
 	 */
 	public static void getAllLinks(String url) {
-		Document doc = null;
 		try {
-			doc = Jsoup.parse(HttpUtil.get(url));
+			doc = Jsoup.parse(getOkHttpClient(url), "GBK");
 		} catch (Exception e) {
 			// 接收到错误链接（404页面）
 			writeTxtFile(errorLinkFile, url + "\r\n"); // 写入错误链接收集文件
-			num++;
-			if (sum > num) { // 如果文件总数（sum）大于num(当前坐标)则继续遍历
-				getAllLinks(getFileLine(aLinkFile, num));
+			爬取计数++;
+			if (链接总数 > 爬取计数) { // 如果文件总数（sum）大于num(当前坐标)则继续遍历
+				getAllLinks(getFileLine(aLinkFile, 爬取计数));
 			}
 			return;
 		}
@@ -58,22 +69,57 @@ public class Spider2 {
 				// 路径必须包含网页主链接--->防止爬入别的网站
 				if (fullurl.contains(indexurl)) {
 					// 判断该a标签的内容是文件还是子链接
-					if (url.contains(".")) {
+					if (href.contains(".")) {
 						// 写入文件中，文件名+文件链接
 						writeTxtFile(docLinkFile, element.text() + "\r\n\t" + fullurl + "\r\n");
 					} else {
 						// 将链接写入文件
-						writeTxtFile(aLinkFile, url + "\r\n");
-						sum++; // 链接总数+1
+						writeTxtFile(aLinkFile, fullurl + "\r\n");
+						链接总数++; // 链接总数+1
 					}
-					System.out.println("\t" + element.text() + "：\t" + url+ "：\t" + fullurl);
+					System.out.println("\t" + element.text() + "：\t" + fullurl);
 				}
 			}
 		}
-		num++;
-		if (sum > num) {
-			getAllLinks(getFileLine(aLinkFile, num));
+		爬取计数++;
+		if (链接总数 > 爬取计数) { // 如果文件总数（sum）大于num(当前坐标)则继续遍历
+			try {
+				Thread.sleep(100 + (int) (Math.random() * 150));
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
+			getAllLinks(getFileLine(aLinkFile, 爬取计数));
 		}
+	}
+
+	/**
+	 * HttpUtil
+	 */
+	private static OkHttpClient okHttpClient;
+
+	static {
+		okHttpClient = new OkHttpClient.Builder().readTimeout(1, TimeUnit.SECONDS).connectTimeout(1, TimeUnit.SECONDS)
+				.build();
+	}
+
+	public static String getOkHttpClient(String path) {
+		// 创建连接客户端
+		Request request = new Request.Builder().url(path).header("Authorization", "Basic dGFyZW5hY29kZTpjb2RlXzIwMTk=")
+				.header("charset", "utf-8")
+				.header("User-Agent",
+						"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36")
+				.build();
+		// 创建"调用" 对象
+		Call call = okHttpClient.newCall(request);
+		try {
+			Response response = call.execute();// 执行
+			if (response.isSuccessful()) {
+				return response.body().string();
+			}
+		} catch (IOException e) {
+			System.out.println("链接格式有误:" + path);
+		}
+		return null;
 	}
 
 	/**
@@ -162,23 +208,24 @@ public class Spider2 {
 	}
 
 	public static void main(String[] args) {
-		aLinkFile = new File("D:/Spider/ALinks.txt");
-		docLinkFile = new File("D:/Spider/DocLinks.txt");
-		errorLinkFile = new File("D:/Spider/ErrorLinks.txt");
+		aLinkFile = new File("D:/Spider/ALinks" + type + ".txt");
+		docLinkFile = new File("D:/Spider/DocLinks" + type + ".txt");
+		errorLinkFile = new File("D:/Spider/ErrorLinks" + type + ".txt");
 		// 用数组存储四个文件对象，方便进行相同操作
 		File[] files = new File[] { aLinkFile, docLinkFile, errorLinkFile };
 		try {
 			for (File file : files) {
-				if (file.exists()) // 如果文件存在
-					file.delete(); // 则先删除
+				if (file.exists()) { // 如果文件存在
+					file.delete();
+				} // 则先删除
 				file.createNewFile(); // 再创建
+				Thread.sleep(256);
 			}
-		} catch (IOException e) {
-			e.printStackTrace();
+		} catch (Exception e) {
 		}
 		long startTime = System.currentTimeMillis(); // 获取开始时间
-		Spider2.getAllLinks(indexurl); // 开始爬取目标内容
-		System.out.println("" + "——————————————————爬取结束——————————————————" + "\n目标网址：" + indexurl + "\n链接总数：" + sum
+		Spider4.getAllLinks(indexurl); // 开始爬取目标内容
+		System.out.println("" + "——————————————————爬取结束——————————————————" + "\n目标网址：" + indexurl + "\n链接总数：" + 链接总数
 				+ "条" + "\n文件总数：" + getFileCount(docLinkFile) + "份");
 		writeTxtFile(aLinkFile, "链接总数：" + getFileCount(aLinkFile) + "条");
 		writeTxtFile(docLinkFile, "文件总数：" + getFileCount(docLinkFile) + "份");

@@ -14,7 +14,11 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import ftpspider.HttpUtil;
-
+/**
+ * 原版
+ * @author qsmeng
+ *
+ */
 public class Spider {
 
 	public static String path = "http://code.tarena.com.cn/"; //
