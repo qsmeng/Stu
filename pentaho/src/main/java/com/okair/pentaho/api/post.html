@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+	<button onclick="post(this)">post</button>
+	<button onclick="get(this)">get</button>
+	<div id="a"></div>
+	<script type="text/javascript">
+		function post(e) {
+			// debugger;
+			try {
+				xhr = new XMLHttpRequest();
+			} catch (e) {
+				xhr = new ActiveXObject("Microsoft.XMLHTTP");
+			}
+			// 2.调用open方法（true----异步）
+			xhr
+					.open(
+							"post",
+							"http://172.16.3.187:30001/pentaho/api/scheduler/triggerNow",
+							true);
+			// 3.发送数据
+			xhr.setRequestHeader('content-type', 'application/json');
+			xhr.setRequestHeader('Authorization', 'Basic YWRtaW46cGFzc3dvcmQ=');
+			xhr.origin = "http://172.16.3.187:30001";
+			var json = JSON.stringify({
+				"jobId" : "admin\tjob_1\t5d00281d-cebe-11e9-b7d3-0242ac11000a"
+			});
+			xhr.send(json);
+			// 4.请求状态改变事件
+			xhr.onreadystatechange = function() {
+				document.getElementById("a").append("xhr:", xhr, '------',
+						"xhr.status:", xhr.status, '------',
+						" xhr.responseText:", xhr.responseText);
+				if (xhr.readyState == 4) {
+					if (xhr.status == 200) {
+						document.write(xhr.responseText);
+					} else {
+						console.log("错误" + xhr.status);
+					}
+				}
+			}
+		}
+		function get(e) {
+			debugger;
+			try {
+				xhr = new XMLHttpRequest();
+			} catch (e) {
+				xhr = new ActiveXObject("Microsoft.XMLHTTP");
+			}
+			xhr.open("get",
+					"http://172.16.3.187:30001/pentaho/api/scheduler/jobs");
+			xhr.setRequestHeader('Authorization', 'Basic YWRtaW46cGFzc3dvcmQ=');
+			xhr.send();
+			xhr.onreadystatechange = function() {
+				document.getElementById("a").append("xhr:", xhr, '------',
+						"xhr.status:", xhr.status, '------',
+						" xhr.responseText:", xhr.responseText);
+				if (xhr.readyState == 4) {
+					if (xhr.status == 200) {
+						document.write(xhr.responseText);
+					} else {
+						console.log("错误" + xhr.status);
+					}
+				}
+			}
+		}
+	</script>
+</body>
+</html>
